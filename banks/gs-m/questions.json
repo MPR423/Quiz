@@ -1,0 +1,2102 @@
+[
+ {
+  "no": 1,
+  "stem": "30歲男人在右下腹部有疼痛的硬塊（膿瘍），並且症狀繼續惡化時，其妥當的治療應該包括：",
+  "options": [
+   "腹腔外膿瘍引流",
+   "闌尾切除術",
+   "任何的液體或膿必須作細菌培養及抗生素敏感試驗",
+   "術前給與全身性抗生素，術後並給與兩劑抗生素",
+   "縫合所有肌肉與皮膚並效置引流管"
+  ],
+  "answer": "ABC",
+  "ref": "Textbook of surgery：Sabiston 14th ed., p895",
+  "images": []
+ },
+ {
+  "no": 2,
+  "stem": "下列那些項目可造成血管壓迫十二指腸之原因？",
+  "options": [
+   "上腸繫動脈出口處之動脈硬化",
+   "快速體重減輕",
+   "消化性潰瘍",
+   "腰椎增加前彎症",
+   "胰十二指腸動脈不正常之走向"
+  ],
+  "answer": "BD",
+  "ref": "Textbook of surgery：Sabiston 14th ed., p810",
+  "images": []
+ },
+ {
+  "no": 3,
+  "stem": "下列何者與遺傳癌症有關？",
+  "options": [
+   "Familial adenomatous polyposis (FAP)",
+   "Turcot's syndrome",
+   "Peutz-Jeghers syndrome",
+   "Cowden's disease",
+   "Lynch syndrome"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston 17th ed., p1492",
+  "images": []
+ },
+ {
+  "no": 4,
+  "stem": "以下何者屬於全靜脈營養的合併症？",
+  "options": [
+   "中心靜脈導管感染",
+   "高血糖症",
+   "CO₂ retention",
+   "急性膽囊炎",
+   "高滲透壓利尿"
+  ],
+  "answer": "ABCDE",
+  "ref": "Maingot’s abdominal operation, 10th ed., p468",
+  "images": []
+ },
+ {
+  "no": 5,
+  "stem": "有關闌尾炎之敘述，下列敘述何者正確？",
+  "options": [
+   "腹痛幾乎是每一位病人都有的症狀",
+   "肛診對於闌尾炎之診斷是相當重要的",
+   "在年輕女性對於闌尾炎之偽陽性診斷較一般病人為高",
+   "在一般病人若在麻醉前即診斷為闌尾膿瘍，此時最好的處理是手術引流",
+   "若在急性期採取保守療法，以後再發闌尾炎之機會高達15﹪"
+  ],
+  "answer": "ACE",
+  "ref": "Textbook of Surgery, Sabiston, 17th ed., p1383-1389",
+  "images": []
+ },
+ {
+  "no": 6,
+  "stem": "有關腹部鈍傷之敘述，下列敘述何者正確？",
+  "options": [
+   "若出現腹腔內遊離氣體，表示有腸胃道之破裂",
+   "若腹部X光有毛玻璃（ground glass）狀，表示有腹腔內遊離液體，且多為血液",
+   "若在後腹腔出現少量氣體，要懷疑有十二指腸之破裂",
+   "血尿常是腎臟受傷的一個表現",
+   "胰臟最常被傷到的位置是在脊柱前之部份"
+  ],
+  "answer": "ABCDE",
+  "ref": "Textbook of Surgery, Sabiston, 17th ed., p512-528",
+  "images": []
+ },
+ {
+  "no": 7,
+  "stem": "下列疾病何者為胃癌之危險因子？",
+  "options": [
+   "pernicious anemia",
+   "adenomatous polyps",
+   "chronic atrophic gastritis",
+   "previous gastric surgery",
+   "Menetrier's disease hypertrophic gastropathy"
+  ],
+  "answer": "ABCDE",
+  "ref": "Textbook of Surgery, Sabiston, 17th ed., p1303-1315",
+  "images": []
+ },
+ {
+  "no": 8,
+  "stem": "Radiation對腸道可能之傷害？",
+  "options": [
+   "Rectal stenosis",
+   "Rectovaginal fistula",
+   "Small bowel obstruction",
+   "Colonic perforation",
+   "Malabsorption"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston, p962-963",
+  "images": []
+ },
+ {
+  "no": 9,
+  "stem": "下列有關duodenal stump leakage之敘述何者正確？",
+  "options": [
+   "常發生於術後2至5天",
+   "high output fistula對octreotide治療反應較佳",
+   "duodenal stump縫得愈緊愈密愈不易leak",
+   "術後胰臟炎是原因之一",
+   "高燒，右上腹痛，黃疸是常見症狀"
+  ],
+  "answer": "ADE",
+  "ref": "Maingot's, p1035",
+  "images": []
+ },
+ {
+  "no": 10,
+  "stem": "懷孕婦女最常見急性腹痛的原因有二，分別為：",
+  "options": [
+   "Pancreatitis",
+   "Cholecystitis",
+   "Appendicitis",
+   "Volvulus",
+   "Intestine obstruction"
+  ],
+  "answer": "BC",
+  "ref": "Sabiston Textbook of Surgery 第16版，p813及21st ed., p2033",
+  "images": []
+ },
+ {
+  "no": 11,
+  "stem": "下列關於Afferent loop syndrome的敘述，何者為真？",
+  "options": [
+   "常見於接受Billroth I anastomosis的病人",
+   "常見於接受Billroth II anastomosis的病人",
+   "較易發生於antecolic anastomosis",
+   "血中amylase值會升高",
+   "手術為唯一治療方式"
+  ],
+  "answer": "BCDE",
+  "ref": "Sabiston Textbook of Surgery 第16版，p853及21st ed., p1218",
+  "images": []
+ },
+ {
+  "no": 12,
+  "stem": "下列關於intussusception的敘述，何者為真？",
+  "options": [
+   "好發於嬰幼兒及兒童",
+   "常有currant jelly stool的表現",
+   "Barium or air enema有診斷及治療的效果，但容易引起peritonitis",
+   "最常見的方式為ileo-colic intussusception",
+   "Sonogram下可見pseudo-kidney sign or complex hyperechoic mass sign"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston Textbook of Surgery 第16版，p1486-1487 及21st ed., p1863",
+  "images": []
+ },
+ {
+  "no": 13,
+  "stem": "下列何項敘述不正確？",
+  "options": [
+   "老年人急性腹症在診斷確定時往往都在病程晚期",
+   "詢問女性急性腹症病史時應詢及經期情況",
+   "急性闌尾炎形成局部膿瘍時宜採手術切除",
+   "右下腹壓痛是診斷急性闌尾炎最重要臨床檢查現象",
+   "隨年齡增長闌尾在中年後逐漸萎縮，故六十歲後不會發生闌尾炎"
+  ],
+  "answer": "CE",
+  "ref": "Current Surgical Diagnosis and treatment 10th Edition, p441-449",
+  "images": []
+ },
+ {
+  "no": 14,
+  "stem": "以下何者為Zollinger-Ellison Syndrome之特徵之一？",
+  "options": [
+   "胃酸過量分泌",
+   "胰臟有胰小島瘤",
+   "血中胃泌素（Gastrin）高於800 pg/ml",
+   "除胃全切除外任何方式之胃切除皆不能避免潰瘍再發",
+   "與邊緣性潰瘍無關"
+  ],
+  "answer": "ABCD",
+  "ref": "Principles and practice of Surgery, p385-386",
+  "images": []
+ },
+ {
+  "no": 15,
+  "stem": "關於Afferent loop syndrome何者敘述為真？",
+  "options": [
+   "可引起postprandial distension, pain and nausea, released by vomiting bilious materials not mixed with food",
+   "常見於Billroth I gastrojejunostomy",
+   "治療包括轉換Gastrojejunostomy to a Roux-en-anastomosis",
+   "此Syndrome不易控制，且手術後又易復發",
+   "Acute form可使死亡率高達30﹪"
+  ],
+  "answer": "ACE",
+  "ref": "Current Surgical therapy fifth edition Cameron, p79",
+  "images": []
+ },
+ {
+  "no": 16,
+  "stem": "關於消化道的Carcinoid tumor敘述何者為真？",
+  "options": [
+   "除了Appendix外，常見於迴腸段",
+   "其Primary tumor常長得很大，而造成腸阻塞",
+   "約50﹪的患者可見血中的serotonin及5HIAA上升",
+   "常為多發性，手術可能造成Carcinoid crisis",
+   "Carcinoid syndrome其治療藥物為Somatostatin"
+  ],
+  "answer": "ADE",
+  "ref": "Current Surgical therapy fifth edition Cameron, p139",
+  "images": []
+ },
+ {
+  "no": 17,
+  "stem": "下列那些疾病與家族性息肉症（Familial adenomatous polyposis）有關？",
+  "options": [
+   "Periampullary carcinoma",
+   "Desmoid tumor",
+   "Sclerosing cholangitis",
+   "Multiple osteomata",
+   "Retinal pigment epithelium"
+  ],
+  "answer": "ABDE",
+  "ref": "Colon and Rectal Surgery Corman 1993, p804-808",
+  "images": []
+ },
+ {
+  "no": 18,
+  "stem": "下列有關胃癌之敘述何者正確？",
+  "options": [
+   "所謂早期是指癌細胞侵犯到黏膜或黏膜下層",
+   "早期胃癌一定要沒有淋巴結轉移才可稱之",
+   "早期胃癌中有70%為分化良好者",
+   "胃癌中最常施行的手術為根治性次全胃切除術",
+   "為求良好之預後除儘量廓清淋巴結外，必須切除脾臟及胰臟尾部"
+  ],
+  "answer": "ACD",
+  "ref": "Schwartz's Principles of Surgery, p1203-1205 及11th ed., p1143,1146",
+  "images": []
+ },
+ {
+  "no": 19,
+  "stem": "下列有關胃腸道廔管之敘述何者正確？",
+  "options": [
+   "一般而言愈早開刀效果愈好",
+   "若廔管長度小於2公分，則自然癒合機會大",
+   "迴腸廔管不易自然癒合",
+   "術前必須積極補充流失之體液及電解質",
+   "因蘭尾炎或憩室炎引起之廔管，較Crohn’s disease, radiation引起者不易癒合"
+  ],
+  "answer": "CD",
+  "ref": "Maingot. 10th ed., p601-602",
+  "images": []
+ },
+ {
+  "no": 20,
+  "stem": "下列有關Meckel's diverticulum之敘述何者正確？",
+  "options": [
+   "很少造成腸阻塞",
+   "出血在成年以後較常發生",
+   "Ectopic pancreatic mucosa較gastric mucosa為多",
+   "出血時Tc-99m檢查之準確度最高",
+   "出血時，可考慮切除部份小腸"
+  ],
+  "answer": "DE",
+  "ref": "Sabiston Texbook of Surgery, p945-949 及 21st ed., p1289-1290",
+  "images": []
+ },
+ {
+  "no": 21,
+  "stem": "有關Carcinoid Tumor之敘述下列何者錯誤",
+  "options": [
+   "是小腸最常見之腫瘤",
+   "最常見之位置在迴腸",
+   "幾乎所有的患者皆可在臨床上發現明顯的Carcinoid Syndrome",
+   "Carcinoid Syndrome包括表皮潮紅及水狀腹瀉",
+   "預後良好，即使有肝臟轉移，手術切除後五年存活率仍可達50﹪"
+  ],
+  "answer": "BCE",
+  "ref": "Maingot’s Abdominal operations, 10 ed., p1180-1181",
+  "images": []
+ },
+ {
+  "no": 22,
+  "stem": "有關脾臟之敘述，下列何者正確？",
+  "options": [
+   "最常見的Splenic tumor是Lymphoma",
+   "最常引起Splenic abscess的菌種是E. coli",
+   "Idiopathic thrombocypopenic purpura的病人在做完splenectomy之後，引起的凝血功能異常可口服Aspirin來治療",
+   "Hereditary Spherocytosis對splenectomy的反應不佳",
+   "Splenectomy後最常引起sepsis的菌種是Strep. pneumococcus以及H. influenzae"
+  ],
+  "answer": "CE",
+  "ref": "Maingot’s Abdominal operations, 10 ed., p2041-2047",
+  "images": []
+ },
+ {
+  "no": 23,
+  "stem": "有關膽道囊腫（choledochal cyst），下列敘述何者為錯？",
+  "options": [
+   "約有60﹪的病例是在老年才會有症狀",
+   "在西方國家的發生率為1/100,000，但更常見於日本",
+   "胰管與膽道管的先天異常會合，造成胰液逆流至膽道，是致病機轉之一",
+   "常見的臨床症狀有黃疸、腹痛與右上腹腫塊",
+   "最好的手術方法是將囊腫引流"
+  ],
+  "answer": "AE",
+  "ref": "Maingot’s Abdominal Operation, 8th ed., p1789-1805",
+  "images": []
+ },
+ {
+  "no": 24,
+  "stem": "和直腸有相關之Fascia包含以下何者？",
+  "options": [
+   "Presacral fascia",
+   "Waldeyer's fascia",
+   "Cooper's fascia",
+   "Denonvillier's fascia",
+   "Abernethy's fascia"
+  ],
+  "answer": "ABD",
+  "ref": "Colon & rectal surgery Marvin L. Corman 4th ed., p7-8",
+  "images": []
+ },
+ {
+  "no": 25,
+  "stem": "Short bowel syndrome何者為非？",
+  "options": [
+   "70﹪以上之小腸切除",
+   "會發生B12及bile salt吸收不良",
+   "胃液分泌較少",
+   "不會發生gall stone",
+   "外科手術尚未被承認"
+  ],
+  "answer": "CD",
+  "ref": "Surgery, Norton JA. Springer-Verlag 2001, p638-639",
+  "images": []
+ },
+ {
+  "no": 26,
+  "stem": "小腸廔管何者為非？",
+  "options": [
+   "會發生液體及電解質流失",
+   "有遠端腸阻塞會痊癒",
+   "Octreotide可能有效",
+   "宜保護廔管皮膚",
+   "Crohn’s disease時會痊癒"
+  ],
+  "answer": "BE",
+  "ref": "Surgery, Norton JA. Springer-Verlag 2001, p631",
+  "images": []
+ },
+ {
+  "no": 27,
+  "stem": "病態肥胖症會引起？",
+  "options": [
+   "Diabetes mellitus and venous stasis",
+   "Osteoporosis",
+   "Obstructive spleep apnea syndrome",
+   "Hypoventilation",
+   "Cardiomegaly and right and left ventricle impairment"
+  ],
+  "answer": "ACDE",
+  "ref": "Maimgot’s abdominal operations 1997, p1058-1061",
+  "images": []
+ },
+ {
+  "no": 28,
+  "stem": "Splenectomy易injury的器官是？",
+  "options": [
+   "Stomach",
+   "Small intestine",
+   "Colon",
+   "Pancreas",
+   "Liver"
+  ],
+  "answer": "ACD",
+  "ref": "Shackelford’s Surgery of the Alimentary tract Vol IIvol III, p638-640",
+  "images": []
+ },
+ {
+  "no": 29,
+  "stem": "下列有關胃癌之敘述，何者正確？",
+  "options": [
+   "最常見早期胃癌為stage IIc",
+   "Bormann classification為early gastric cancer之分類",
+   "Helicopyloric infection不會增加胃癌之機率",
+   "Gastric remnant cancer之預後比primary gastric cancer差",
+   "R1 resection為胃切除及perigastric lymph node完全移除"
+  ],
+  "answer": "ADE",
+  "ref": "Sabiston 16th ed., p855-863",
+  "images": []
+ },
+ {
+  "no": 30,
+  "stem": "結腸破裂需手術治療時，下列何種措施可以預防手術後併發症？",
+  "options": [
+   "手術前儘早使用抗生素",
+   "手術後繼續使用抗生素",
+   "施打肝炎疫苗",
+   "避免縫合皮膚及皮下組織",
+   "儘早手術"
+  ],
+  "answer": "ABDE",
+  "ref": "Sabiston Textbook of Surgery, 15th ed., p324",
+  "images": []
+ },
+ {
+  "no": 31,
+  "stem": "【組合題31-32】26歲有綁安全帶的駕駛，車禍後被送到醫院。一度評估發現：除了彌漫性腹部痛以外，沒有其他嚴重外傷。經理學檢查發現腸音低度活動，肝部鈍音不明，壓痛明顯，有反彈以及反射性腹肌收縮（Muscle guarding），此時應考慮作以下哪些檢查？",
+  "options": [
+   "胸腹部X光攝影",
+   "腹部超音波",
+   "診斷性腹膜灌洗",
+   "腹部血管攝影",
+   "腹部核磁共振掃瞄"
+  ],
+  "answer": "ABC",
+  "ref": "ATLS Guideline, 6th ed., p162-171",
+  "images": []
+ },
+ {
+  "no": 32,
+  "stem": "【組合題31-32】續上題，病人的胸部X光片呈現有腹腔游離空氣，而腹部超音波顯示有腹腔內液滯留，請問應如何處置？",
+  "options": [
+   "給予靜脈抗生素",
+   "小心觀察腹內傷害的進一步證據",
+   "進行腸胃道攝影（有顯影劑）",
+   "懷疑有橫隔膜破裂並伴隨氣胸",
+   "立刻進行剖腹探查手術"
+  ],
+  "answer": "AE",
+  "ref": "ATLS Guideline, 6th ed., p162-171",
+  "images": []
+ },
+ {
+  "no": 33,
+  "stem": "50歲女性，一小時前與丈夫發生爭鬥，遭其以水果刀刺傷右側脅部（right flank），有一處深部傷口，持續有血流出。理學檢查發現，意識清楚，血壓120/70 mmHg，心跳105/min，右側腹部壓痛，反彈痛明顯，可能傷害的器官有哪些？",
+  "options": [
+   "肝",
+   "腎",
+   "十二指腸",
+   "大腸",
+   "脾"
+  ],
+  "answer": "ABCD",
+  "ref": "Surg. Clin. N. Am.:1999(79), Dec., p1331-1356 及New Concepts in the Management of Patients with Penetrating Abdominal Wounds[Surgical Clinics of North America. 1999 Dec (79)6:1331-1356]",
+  "images": []
+ },
+ {
+  "no": 34,
+  "stem": "何者為慢性胰臟炎（chronic pancreatitis）之病因（etiology）？",
+  "options": [
+   "酒精性胰臟炎（alcoholic pancreatitis）",
+   "法特氏壺腹發炎（inflammation of the papilla of Vater）",
+   "蛋白質營養失調（protein malnutrition）",
+   "十二指腸潰瘍（duodenal ulcer）",
+   "囊性纖維化（cystic fibrosis）"
+  ],
+  "answer": "ABCE",
+  "ref": "Abdominal operations, Maingot's 10th ed., p1941",
+  "images": []
+ },
+ {
+  "no": 35,
+  "stem": "下列何者與Helicobacter pylori感染有關？",
+  "options": [
+   "Duodenal ulcer",
+   "Eosinophilic gastroenteritis",
+   "Gastric ulcer",
+   "Chronic gastritis",
+   "Gastric cancer"
+  ],
+  "answer": "ACDE",
+  "ref": "Textbook of surgery Sabiston 16th ed. 2001, p821-823",
+  "images": []
+ },
+ {
+  "no": 36,
+  "stem": "關於上消化道出血，何者敘述為是？",
+  "options": [
+   "復發性出血，可考慮手術治療",
+   "病患有其他潛在疾病時，可考慮早期手術治療",
+   "手術治療十二指腸出血必須做胃切除",
+   "年紀大病患為避免復發，必須做胃切除",
+   "年紀輕病患，可以考慮做胃切除"
+  ],
+  "answer": "ABE",
+  "ref": "Abdominal operations, Maingot's, 10th ed. (1997), p293-294",
+  "images": []
+ },
+ {
+  "no": 37,
+  "stem": "對於潰瘍穿孔的治療，下列何者可採取非手術治療？",
+  "options": [
+   "休克病患",
+   "血流動力學穩定病患",
+   "無腹膜炎症狀病患",
+   "口服顥影劑無外漏至腹腔內病患",
+   "穿孔時間超過24小時"
+  ],
+  "answer": "BCD",
+  "ref": "Abdominal operations, Maingot's, 10th ed. (1997), p985",
+  "images": []
+ },
+ {
+  "no": 38,
+  "stem": "下列何者是Leakage of duodenal stump常見之原因？",
+  "options": [
+   "Severe inflammation of duodenal bulb",
+   "Localized infection and sepsis",
+   "Post operative pancreatitis",
+   "Bleeding about pancreatic bed",
+   "手術後，7-10天最常發生"
+  ],
+  "answer": "ABCD",
+  "ref": "Abdominal operations, Maingot's, 10th ed. (1997), p1035",
+  "images": []
+ },
+ {
+  "no": 39,
+  "stem": "Superior mesenteric artery發生急性阻塞時，正確項目是：",
+  "options": [
+   "腹部疼痛以止痛劑即有效",
+   "發炎初期腹部觸診的發炎症狀輕微，不若病人所言之痛苦的程度",
+   "診斷最有用的是血管造影",
+   "一旦診斷確定就需持續注射血管擴張劑",
+   "由於科技進步本症之死亡率現已低於50﹪"
+  ],
+  "answer": "BCD",
+  "ref": "Schwartz's Principles of Surgery, 7th ed., p1563-1564 及 11th ed., p1250, 928-932",
+  "images": []
+ },
+ {
+  "no": 40,
+  "stem": "下列急性腹症，哪些情形可以考慮以非手術治療？",
+  "options": [
+   "腹痛多日後，被診斷為十二指腸潰瘍穿孔，但無明顯腹膜炎跡象",
+   "合併其他疾病的膽囊膿瘍 (Empyema)",
+   "所謂 “Tumor formation of appendicitis”",
+   "急性大腸憩室炎 (Acute diverticulitis)",
+   "急性胰臟炎"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston: Textbook of Surgery, 16th ed., p812",
+  "images": []
+ },
+ {
+  "no": 41,
+  "stem": "有關下消化道出血（Lower G-I bleeding），下列哪些疾病必須列入鑑別診斷：",
+  "options": [
+   "Ulcerative colitis",
+   "Radiation-induced disorder",
+   "Mesenteric ischemia",
+   "Osler-Weber-Rendu Syndrome",
+   "Crohn's disease"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston: Textbook of Surgery, 16th ed., p829",
+  "images": []
+ },
+ {
+  "no": 42,
+  "stem": "63歲女性病患，左下腹痛、發燒、白血球增加，（leukocytosis）經抗生素治療48小時後，症狀仍持續，這時可用的診斷工具是？",
+  "options": [
+   "腹部X光（plain abdominal X-ray）",
+   "電腦斷層掃描",
+   "大腸鏡",
+   "乙狀結腸鏡",
+   "下消化道攝影（barium enema）"
+  ],
+  "answer": "AB",
+  "ref": "Am J Surg 155: 331-335, 1988 及Complications of acute diverticulitis of the colon: Improved early diagnosis with computerized tomography[The American Journal of Surgery. 1988 Feb (155)2:331-335]",
+  "images": []
+ },
+ {
+  "no": 43,
+  "stem": "下列關於原發性小腸惡性腫瘤（primary malignant tumor）的敘述不正確？",
+  "options": [
+   "常見的消化道惡性腫瘤",
+   "一般診斷工具可輕易發現",
+   "可早期發現",
+   "存活率差",
+   "有特定的症狀表現（specific symptoms）"
+  ],
+  "answer": "ABCE",
+  "ref": "Current Surgical Therapy, p141-148",
+  "images": []
+ },
+ {
+  "no": 44,
+  "stem": "在重症患者，長期缺乏腸道營養，在小腸中會發生下列變化：",
+  "options": [
+   "絨毛高度減少，細胞數減少（decrease villous height &cellular mass）",
+   "brush border enzymes減少製造",
+   "nutrient吸收減少",
+   "腸道細菌translocation增加",
+   "黏膜層的吸收能力發生不可逆的變化"
+  ],
+  "answer": "ABCD",
+  "ref": "Principles and Practice of Trauma Care 1982, p330-387",
+  "images": []
+ },
+ {
+  "no": 45,
+  "stem": "下列關於abdominal compartment syndrome的敘述何者正確？",
+  "options": [
+   "由下腔靜脈間接測得腹內壓",
+   "常由單一因素共同造成",
+   "由中央靜脈壓，換氣功能的變化及尿量減少來表現",
+   "需腹部減壓（decompression of abdomen）處理",
+   "在腹腔打開後須小心監測vital signs"
+  ],
+  "answer": "CDE",
+  "ref": "J Am Coll Surg 180:745-753,1995",
+  "images": []
+ },
+ {
+  "no": 46,
+  "stem": "關於殘胃癌（Gastric stump cancer）的敘述，何者正確？",
+  "options": [
+   "最常發生於幽門成形術後",
+   "行Billroth II Gastrectomy 25年後其發生率約為一般人的3倍",
+   "胃部份切除手術後，得殘胃癌的機率約為15﹪",
+   "其制病機轉與Bile reflux, atrophic gastritis有關",
+   "很少見於胃手術後15年內"
+  ],
+  "answer": "BDE",
+  "ref": "Oxford Textbook of Surgery, p933",
+  "images": []
+ },
+ {
+  "no": 47,
+  "stem": "一病患有脂肪吸收不良的症狀，但血液中鐵及葉酸濃度正常，則其不可能為？",
+  "options": [
+   "厭食症",
+   "腸黏膜損傷",
+   "慢性胰臟炎",
+   "短腸症侯群",
+   "胃全切除術後"
+  ],
+  "answer": "ABDE",
+  "ref": "Oxford Textbook of Surgery, p989",
+  "images": []
+ },
+ {
+  "no": 48,
+  "stem": "下列對早期胃癌的敘述中何者為錯：",
+  "options": [
+   "早期胃癌手術後的五年存活率可達70至95﹪",
+   "早期胃癌常發生於胃的近端",
+   "大體上可分為三種Type",
+   "Type I 指的是Protruded Type",
+   "早期胃癌指的是癌細胞只侵犯至肌肉層"
+  ],
+  "answer": "BE",
+  "ref": "Sabiston Textbook of Surgery. 16th Edition, p860-865",
+  "images": []
+ },
+ {
+  "no": 49,
+  "stem": "那些狀況需要Screen for Gastrin？",
+  "options": [
+   "Recurrent peptic ulcer",
+   "Postoperative peptic ulcer",
+   "Failure of medical therapy for peptic ulcer",
+   "Prolonged undiagnosed diarrhea",
+   "Initial diagnosis of peptic ulcer disease"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabisiton Text Book of Surgery 15th ed., p1178",
+  "images": []
+ },
+ {
+  "no": 50,
+  "stem": "下列何者屬所謂blind loop syndrome？",
+  "options": [
+   "Iron deficiencies",
+   "Vomiting",
+   "Steatorrhea",
+   "Bacterial overgrowth",
+   "Vit B12 deficiencies"
+  ],
+  "answer": "ACDE",
+  "ref": "The Washington Manual of Surgery 2nd ed., p215",
+  "images": []
+ },
+ {
+  "no": 51,
+  "stem": "以下何者之動脈屬於終端動脈（terminal artery）？",
+  "options": [
+   "appendical artery",
+   "cystic artery",
+   "splenic artery",
+   "gastroduodenal artery",
+   "phrenic artery"
+  ],
+  "answer": "AB",
+  "ref": "Anson & McVay Surgical Anatomy 6th ed. WB Sanders Co. 1984, p585-709",
+  "images": []
+ },
+ {
+  "no": 52,
+  "stem": "胃次全切除手術後，可以用胃十二指腸吻合（Billroth I）或胃空腸吻合（Billroth II），以下何種併發症只出現於Billroth II吻合後？",
+  "options": [
+   "Dumping syndrome",
+   "Acute afferent loop syndrome",
+   "Retained gastric antrum",
+   "Duodenal stump leakage",
+   "Anastomosis stenosis"
+  ],
+  "answer": "BCD",
+  "ref": "Maingot’s abdominal operation, 10th ed., p1029-1056",
+  "images": []
+ },
+ {
+  "no": 53,
+  "stem": "以下有關「急性闌尾炎」的敘述是錯的？",
+  "options": [
+   "闌尾炎絕不發生於85歲以上的患者",
+   "闌尾炎最常見的症狀是腹瀉",
+   "發生於高齡或幼兒之闌尾炎半數以上已呈穿孔狀態",
+   "急性闌尾炎合併穿孔，術後傷口一定會感染，故不宜即期縫合",
+   "闌尾切除後，一週仍無法排氣，需考慮再開腹再手術"
+  ],
+  "answer": "ABDE",
+  "ref": "Maingot’s abdominal operation, 10th ed., p1191-1227",
+  "images": []
+ },
+ {
+  "no": 54,
+  "stem": "高血清胃激素（gastrin）值及低胃酸排出量情況下，下列何者對？",
+  "options": [
+   "萎縮性胃炎",
+   "惡性貧血",
+   "腎衰竭",
+   "使用Omeprazole病人",
+   "胃出口阻塞"
+  ],
+  "answer": "ABCD",
+  "ref": "Maingot’s Abdominal Operations 10th edition, p1967",
+  "images": []
+ },
+ {
+  "no": 55,
+  "stem": "關於tuberculous enteritis敘述何者正確？",
+  "options": [
+   "Primary infection較常見",
+   "好發在ileocecal region",
+   "若懷疑，則要開始藥物治療",
+   "術前診斷常無法確定",
+   "手術治療主要是使用在處理其併發症"
+  ],
+  "answer": "BCDE",
+  "ref": "Principles of Surgery, Schwartz 1999, 7th ed., p1238",
+  "images": []
+ },
+ {
+  "no": 56,
+  "stem": "關於Meckel’s diverticulum敘述何者正確？",
+  "options": [
+   "在小孩中最常見的症狀是腹痛",
+   "好發位置距ileocecal value約45-60公分",
+   "臨床上有時跟Acute appendicitis難以區分",
+   "在例行剖腹手術中，只要發現就必須切除",
+   "與Littre’s hernia有關"
+  ],
+  "answer": "BCE",
+  "ref": "Schwartz's Principles of Surgery, 1999, 7th ed., p1249 及 11th ed., p1247-1248",
+  "images": []
+ },
+ {
+  "no": 57,
+  "stem": "食道靜脈曲張（esophageal varices）急性出血時，插放Sengstaken tube，下列何者是正確的？",
+  "options": [
+   "gastric balloon需300-400ml的inflation",
+   "esophageal balloon需300-400ml的inflation",
+   "使用heavy sedation或opiates",
+   "確定之治療需延遲時，必須deflate esophageal balloon但gastric balloon維持inflated",
+   "確定之治療需延遲時，必須deflate gastric balloon但esophageal balloon維持inflated"
+  ],
+  "answer": "AD",
+  "ref": "Hepatobiliary and Pancreatic Surgery 5th ed. 1996.Carter D, Russell RCG, Pitt HA, Bismuth H. Chapman ＆ Hall Medical, p159-162",
+  "images": []
+ },
+ {
+  "no": 58,
+  "stem": "有關Bile duct cancer之敘述何者正確？",
+  "options": [
+   "Resectability由cholangiography評估之predictive value約60﹪",
+   "Cholangiography加angiography之predictive value約79﹪",
+   "約有10-15﹪病人手術中有腹膜或肝臟之轉移，是術前無法探測出的",
+   "約70﹪的cholangiocarcinoma發生於hepatic duct bifurcation",
+   "術前之阻塞性黃疸與病人之預後不相關"
+  ],
+  "answer": "ABCD",
+  "ref": "Hepatobiliary and Pancreatic Surgery 5th ed. 1996. Carter D, Russell RCG, Pitt HA, Bismuth H. Chapman ＆ Hall Medical, p420-422",
+  "images": []
+ },
+ {
+  "no": 59,
+  "stem": "有關以segment Ⅲ hepatico jejunostomy作malignant hilar obstruction之bypass手術，何者是其contraindication？",
+  "options": [
+   "Infected right lobe",
+   "Left lobe liver被tumor侵犯",
+   "Right lobe liver被tumor侵犯",
+   "Tumor infiltration使left lobe liver atrophy",
+   "Left lobe liver的blood supply被tumor侵犯"
+  ],
+  "answer": "ABDE",
+  "ref": "Hepatobiliary and Pancreatic Surgery 5th ed. 1996. Carter D, Russell RCG, Pitt HA, Bismuth H. Chapman ＆ Hall Medical, p430-431 HPB (Oxford). 2005",
+  "images": []
+ },
+ {
+  "no": 60,
+  "stem": "Pancreatic carcinoma之peritoneal invasion, or dissemination較正確的診斷方式是什麼？",
+  "options": [
+   "ERCP",
+   "ultrasonography",
+   "Ascites cytology",
+   "angiography",
+   "laparoscopy"
+  ],
+  "answer": "CE",
+  "ref": "Hepatobiliary and Pancreatic Surgery 5th ed. 1996. Carter D, Russell RCG, Pitt HA, Bismuth H. Chapman ＆ Hall Medical, p576-577",
+  "images": []
+ },
+ {
+  "no": 61,
+  "stem": "對於Pancreatic cancer的intractable pain relief，可以使用thoracoscopy施行splanchnicectomy，哪些nerve可以division？",
+  "options": [
+   "Greater splanchnic nerver",
+   "Lesser splanchnic nerve",
+   "“Least” splanchnic nerve",
+   "Lumber plexus",
+   "Axillary plexus"
+  ],
+  "answer": "ABC",
+  "ref": "Hepatobiliary and Pancreatic Surgery 5th ed. 1996. Carter D, Russell RCG, Pitt HA, Bismuth H. Chapman ＆ Hall Medical, p593",
+  "images": []
+ },
+ {
+  "no": 62,
+  "stem": "有關somatostatinoma敘述何者正確？",
+  "options": [
+   "somatostatinoma好發於pancreas佔50﹪以上",
+   "位在pancreas之somatostatinoma以在pancreas的head最多",
+   "位在pancreas之somatostatinoma以在pancreas的neck最多",
+   "位在pancreas之somatostatinoma以在pancreas的body最多",
+   "位在pancreas之somatostatinoma以在pancreas的tail最多"
+  ],
+  "answer": "AB",
+  "ref": "Maingot's ABDOMINAL OPERATIONS Michael JZ et al 20 th ed. Prentice Hall International, Inc, p1218",
+  "images": []
+ },
+ {
+  "no": 63,
+  "stem": "以下有關gastrinoma之敘述，何者正確？",
+  "options": [
+   "50-60﹪以上malignant",
+   "More often multifocal",
+   "Hepatic metastases are major cause of death",
+   "Pulmonary metastases are major cause of death",
+   "Ulcer with gastrointestinal bleeding is major cause of death"
+  ],
+  "answer": "ABC",
+  "ref": "Surgical Disease of Pancreas 3rd ed. Howard JM, et al.William ＆Wilkins 1998, p733-734。Mangot p1223-1224",
+  "images": []
+ },
+ {
+  "no": 64,
+  "stem": "有關acute pancreatitis之敘述何者正確？",
+  "options": [
+   "Hypoactive or absent bowel sound",
+   "Epigastric mass may be present",
+   "Flank ecchymosis又稱為Cullen's sign",
+   "Periumbilical ecchymosis又稱為Grey Tuner’s sign",
+   "可併發organ failure"
+  ],
+  "answer": "ABE",
+  "ref": "Arch Surg 1993,128, p586-590",
+  "images": []
+ },
+ {
+  "no": 65,
+  "stem": "關於小腸廔管（fistula）的敘述，下列何者正確？",
+  "options": [
+   "常見於手術併發症",
+   "常見於小腸憩室穿孔",
+   "常發生敗血症",
+   "所有小腸廔管可用靜脈營養法治癒",
+   "抑制消化液分泌可以促進癒合"
+  ],
+  "answer": "ACE",
+  "ref": "Maingot's ABDOMINAL OPERATIONS Michael JZ et al 10 th ed. Prentice Hall International, Inc, p596",
+  "images": []
+ },
+ {
+  "no": 66,
+  "stem": "放射線性腸炎（radiation enteritis）容易造成哪些併發症？",
+  "options": [
+   "阻塞",
+   "廔管",
+   "穿孔",
+   "出血",
+   "膿腫"
+  ],
+  "answer": "ABCDE",
+  "ref": "OXFORD TEXTBOOK OF SURGERY, Peter JM et al OXFORD UNIVERSITY PRESS, p964",
+  "images": []
+ },
+ {
+  "no": 67,
+  "stem": "下列何者為post-gastrectomy problem？",
+  "options": [
+   "Dumping syndrome",
+   "Afferent loop syndrome",
+   "Postvagotomy diarrhea",
+   "Bile reflux gastritis",
+   "Metabolic bone disease"
+  ],
+  "answer": "ABCDE",
+  "ref": "Schwartz's Principles of Surgery, 8th ed., p985 及11th ed., p1156-1159",
+  "images": []
+ },
+ {
+  "no": 68,
+  "stem": "下列病灶會產生轉移痛（referred pain）至左肩？",
+  "options": [
+   "十二指腸",
+   "脾",
+   "腎",
+   "胰尾",
+   "膽囊"
+  ],
+  "answer": "BD",
+  "ref": "Maingot’s Abdominal Operations.10th ed., p353",
+  "images": []
+ },
+ {
+  "no": 69,
+  "stem": "下列有關MEN-I患者之敘述何者有誤？",
+  "options": [
+   "Hyperparathyroidism是MEN-I最常見之症狀",
+   "Insulinoma是MEN-I最常見之胰臟Islet cell tumor",
+   "Medullary thyroid cancer可在MEN-I中發現",
+   "MEN-I患者之Islet cell tumor多為Multicentric",
+   "MEN-I 患者之Islet cell tumor惡性之機會較高"
+  ],
+  "answer": "BC",
+  "ref": "Textbook of Surgery, Sabinston 20th ed., p638-639, 958",
+  "images": []
+ },
+ {
+  "no": 70,
+  "stem": "腸阻塞產生dehydration的原因為？",
+  "options": [
+   "無法進食",
+   "嘔吐",
+   "小腸之水份吸收減少",
+   "Fluid sequestration在third space",
+   "腸壁水腫"
+  ],
+  "answer": "ABCDE",
+  "ref": "Textbook of Surgery, Sabinston 15th ed., p917",
+  "images": []
+ },
+ {
+  "no": 71,
+  "stem": "關於胃腺癌的手術，下列那些敘述是對的？",
+  "options": [
+   "Curative resection是切除all tumor (ie. R0 resection)",
+   "在curative resection 中Frozen section確定negative margin是很重要的",
+   "如tumor浸潤至adjacent organs (如distal pancreas, transverse colon，或spleen)要en bloc 切除",
+   "外科切除是唯一最好的根除治療",
+   "如不能根除治療，外科切除仍是最好的palliation而且可提供最正確的staging"
+  ],
+  "answer": "ABCDE",
+  "ref": "Schwartz's Principles of Surgery, 20th edition p1081-1083 及 11th ed., p1146",
+  "images": []
+ },
+ {
+  "no": 72,
+  "stem": "以胃隔間手術來治療病態性肥胖被放棄的理由是？",
+  "options": [
+   "手術困難度高",
+   "容易產生出口狹窄及嘔吐",
+   "病人容易改變飲食習慣造成復胖",
+   "長期有營養不良之問題",
+   "長期減重效果不好"
+  ],
+  "answer": "BCE",
+  "ref": "Sabiston Textbook of Surgery (17th Edition), p363",
+  "images": []
+ },
+ {
+  "no": 73,
+  "stem": "有關肝功能與手術的關係，下列敘述何者正確？",
+  "options": [
+   "肝硬化合併腹水病人，即使有umbilical hemia，因無法治療，故不用手術治療",
+   "肝功能的 Child-Pugh scoring system，分級B是7-9分",
+   "Prothrombin time 延長 4秒鐘是 Child-Pugh scoring system積分的 2分",
+   "INR 1.5 是 Child-Pugh 積分的 1分",
+   "GOT(AST) 60 是 Child-Pugh scoring system 積分的 2分"
+  ],
+  "answer": "BCD",
+  "ref": "Sabiston’s 17th ed., p.226-7",
+  "images": []
+ },
+ {
+  "no": 74,
+  "stem": "下列那幾項為Ulcerative colitis目前公認的Surgical indications？",
+  "options": [
+   "Toxic megacolon",
+   "Massive life-threatening hemorrhage",
+   "單純為了十年以上的病史",
+   "Flat dysplasia",
+   "Medical intractability with high risk of major complications"
+  ],
+  "answer": "ABDE",
+  "ref": "Schwartz's Principles of Surgery, p1078-1079 及11th ed., p1282-1283",
+  "images": []
+ },
+ {
+  "no": 75,
+  "stem": "對於胃泌素瘤(Gastrinoma)，下列敘述何者有誤？",
+  "options": [
+   "Gastrinoma大都發生在 duodenum 及胰臟是最常見的 islet cell tumor",
+   "血中胃泌素過高時應考慮卵巢癌的可能",
+   "少數肺及大腸腫瘤及聽神經瘤會產生gastrin",
+   "約有25%病患屬於 MEN-I Syndrome",
+   "外科治療的共識為 Whipple operation 是首要選擇"
+  ],
+  "answer": "AE",
+  "ref": "17TH Sabiston Textbook of Surgery(第36、45章)",
+  "images": []
+ },
+ {
+  "no": 76,
+  "stem": "下列有關胃手術後併發症之敘述何者正確？",
+  "options": [
+   "以藥物治療鹼逆流性胃炎(alkaline reflux gastritis) 極為有效，不需手術",
+   "殘胃癌僅見於胃癌手術後之病患",
+   "急性入行枝阻塞(acute afferent loop obstruction)之症狀與胰臟炎類似",
+   "術後胃張力不全(gastric atony)可先考慮投與 cisapride或erythromycin 治療",
+   "術後產生黃疸時應考慮膽道損傷之可能性"
+  ],
+  "answer": "CDE",
+  "ref": "Maingot’s Abdominal Operations, 10th ed. p1038-1051",
+  "images": []
+ },
+ {
+  "no": 77,
+  "stem": "胃繞道(Roux-en-Y gastric bypass)減肥手術，術後可能的立即併發症包括？",
+  "options": [
+   "傷口感染",
+   "遠端胃部急性擴張 (Gastric dilatation)",
+   "吻合處洩漏併腹膜炎",
+   "Roux 臂 (Roux limb) 阻塞",
+   "膽囊炎"
+  ],
+  "answer": "ABCD",
+  "ref": "Schwartz’s Principles of Surgery, 8th ed., p1006",
+  "images": []
+ },
+ {
+  "no": 78,
+  "stem": "Revised Child classification of clinical severity of cirrhosis 包括何者？",
+  "options": [
+   "GPT",
+   "Serum bilirubin",
+   "Partial thromboplastin time (PTT)",
+   "Encephalopathy",
+   "Ascites"
+  ],
+  "answer": "BDE",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.1154",
+  "images": []
+ },
+ {
+  "no": 79,
+  "stem": "有關肝臟之生理解剖學下列何者為錯誤？",
+  "options": [
+   "肝臟之血液之80%由肝門脈供給",
+   "肝臟之血液之80%由肝動脈供給",
+   "肝臟之肝動脈部份病例是來自上腸動脈",
+   "肝靜脈正常時是有脈瓣（valve）",
+   "膽囊動脈一般是來自右肝動脈"
+  ],
+  "answer": "BD",
+  "ref": "Principle of Surgery, Schwartz. 7th Ed 1999（P.1396）",
+  "images": []
+ },
+ {
+  "no": 80,
+  "stem": "下列何者為 Calot's triangle 之界線？",
+  "options": [
+   "總肝動脈",
+   "門靜脈",
+   "總肝管",
+   "膽囊管",
+   "肝臟下緣"
+  ],
+  "answer": "CDE",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.1188",
+  "images": []
+ },
+ {
+  "no": 81,
+  "stem": "臨床上，輔助診斷急性膽管炎 acute cholangitis 時，所謂的“Charcot's triad”，包括哪些症狀？",
+  "options": [
+   "血中白血球數升高",
+   "發燒",
+   "黃疸",
+   "上腹或右上腹痛",
+   "低血壓"
+  ],
+  "answer": "BCD",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.1203",
+  "images": []
+ },
+ {
+  "no": 82,
+  "stem": "下列有關脾臟切除之敘述何者正確？",
+  "options": [
+   "脾臟切除後血中 IgM 會下降",
+   "左下肺葉擴張不全，為最常見之併發症",
+   "若術後發生敗血症，則最常培養出之菌種為 E. coli 及Hemophilus influenzae",
+   "Incidental splenectomy之死亡率，較因血液疾病接受脾臟切除者為高",
+   "Splenic vein thrombosis 常引起食道靜脈瘤曲張而必須切除脾臟"
+  ],
+  "answer": "ABD",
+  "ref": "Schwartz, 15th ed.（P.1208-1212）",
+  "images": []
+ },
+ {
+  "no": 83,
+  "stem": "68歲女性病患，因右上腹疼痛、全身皮膚變黃、發燒有兩天而至急診求診。體溫39.6℃， 血壓＝80/60 mmHg， 血液檢查為WBC＝24000CUMM，Total bilirubin＝12 mg/dl，Alk-p＝380 U/L，γ-GT＝260 U/L，理學檢查發現病人呈現神智不清，請問下列何者正確？",
+  "options": [
+   "此診斷為急性膽道炎（acute cholangitis）",
+   "應緊急手術清除膽道結石為要務，以降低黃疸及避免敗血性休克",
+   "宜先給予抗生素及靜脈輸液，並儘快行膽道引流，以避免嚴重膽道靜脈細菌逆流（cholangiovenous bacteria reflux）",
+   "此種情況較常發生於總膽管結石患者",
+   "此種情況較常發生於壺腹周圍腫瘤患者（Periampullary tumors）"
+  ],
+  "answer": "ACD",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.1203",
+  "images": []
+ },
+ {
+  "no": 84,
+  "stem": "一位三十歲男性，因三小時前突然嚴重上腹痛及嘔吐，至急診室求診，病史顯示最近六個月幾乎每天都會上腹痛，但服用胃藥後改善。 在急診室檢查發現臉色蒼白、冒汗、身體僵硬不動， 體溫38℃，血壓 100/60 mmHg， 脈搏110/分， 呼吸12/分。 腹部檢查發現腸音減低， 嚴重壓痛及腹肌僵硬。下列何項是敘述是正確的？",
+  "options": [
+   "可能診斷為腸阻塞",
+   "站立胸部Ｘ光片為適當的診斷工具",
+   "鼻胃管引流及體液補充是適當的處置",
+   "可觀察 24 小時",
+   "及早手術治療"
+  ],
+  "answer": "BCE",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.959-960",
+  "images": []
+ },
+ {
+  "no": 85,
+  "stem": "下列有關胃癌之敘述，何者正確？",
+  "options": [
+   "所謂早期胃癌是指癌細胞侵犯到黏膜或黏膜下層",
+   "早期胃癌一定要沒有淋巴結轉移才可稱之",
+   "所有早期胃癌可以內視鏡黏膜切除術治療",
+   "目前胃癌分期中，淋巴結的分期是以癌細胞侵犯的淋巴結數目來分期",
+   "胃癌肝轉移時為求良好之預後，除儘量廓清淋巴結外，並必須切除部分肝臟"
+  ],
+  "answer": "AD",
+  "ref": "Schwartz's Principles  of Surgery 8th ed. P.976-981",
+  "images": []
+ },
+ {
+  "no": 86,
+  "stem": "下列有關肝移植術後肝動脈血栓形成的原因，何者正確？",
+  "options": [
+   "同種異體移植排斥",
+   "肝動脈因過長扭結(kinking)",
+   "病人過去病史有肝動脈狹窄",
+   "膽管吻合滲漏",
+   "手術吻合技術問題"
+  ],
+  "answer": "ABCE",
+  "ref": "A companion to specialist surgical practice--Transplantation (Fourth Edition)   Edited by John L.R.Forsythe pg 162",
+  "images": []
+ },
+ {
+  "no": 87,
+  "stem": "有關胰臟癌的手術切除之敘述，何者不正確？",
+  "options": [
+   "主要血管和腫瘤的組織界線清除是為可切除",
+   "腫瘤和PV/SMV接觸<=180度仍為可切除",
+   "對胰尾腫瘤而言，腫瘤接觸ciliac axis <= 180度，為borderline resectable",
+   "對胰尾腫瘤而言，腫瘤接觸ciliac axis > 180 度，沒有侵犯腹主動脈，且gastroduodenal artery 完整，是為可切除",
+   "腫瘤接觸SMA > 180 度，是為borderline resectable"
+  ],
+  "answer": "DE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 62, 979~987",
+  "images": []
+ },
+ {
+  "no": 88,
+  "stem": "有關胰臟癌之敘述，何者正確？",
+  "options": [
+   "左側胰臟癌的可切除率比右側高",
+   "CA 19-9的主要臨床意義為監測治療反應及術後是否復發",
+   "手術完全切除是唯一治癒的機會",
+   "根據AJCC 分期，T1 為腫瘤侷限在胰臟且最大徑小於三公分",
+   "年齡大於60 歲的病人，胰臟炎但無膽結石及酗酒病史，可能是胰臟癌"
+  ],
+  "answer": "BCE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 62, 979~987",
+  "images": []
+ },
+ {
+  "no": 89,
+  "stem": "根據ISGPF(International Study Group of Pancreatic Fistula)2005年對於pancreatic fistula的定義,以下何者為對?",
+  "options": [
+   "引流液的Amylase level大於血液的Amylase level的3倍以上",
+   "Grade A Fistula沒有臨床上的症狀,且不需要任何的治療",
+   "Grade B Fistula需要Intervention,包括抗生素治療,營養補充,及皮外引流(Percutaneous drainage)",
+   "Grade C Fistula的病人有Sepsis,Reoperation,以至於死亡的可能性",
+   "引流管的Amylase level測量天數為術後第七天"
+  ],
+  "answer": "ABCD",
+  "ref": "Surgery. 2005 Jul;138(1):8-13.",
+  "images": []
+ },
+ {
+  "no": 90,
+  "stem": "有關肝內膽管結石之敘述，何者正確？",
+  "options": [
+   "好發於東亞地區",
+   "長期可能引發肝內膽管癌",
+   "診療時須小心考量合併肝內膽管癌的可能",
+   "治療分為肝切除及經皮穿肝內視鏡取石兩大類",
+   "結石主要成分為calcium bilirubinate"
+  ],
+  "answer": "ABCDE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 39, 642~655",
+  "images": []
+ },
+ {
+  "no": 91,
+  "stem": "使用微創肝切除於肝惡性腫瘤有關之敘述，何者正確？",
+  "options": [
+   "如果是肝細胞癌，應該儘可能進行解剖性肝切除(Anatomical resection)",
+   "和傳統剖腹比較，術後初期恢復指標較佳",
+   "在肝硬化的病人，腹腔鏡肝切除可能有減少術後腹水的優點",
+   "目前建議的適應症為單一腫瘤，小於10 cm、位於S2〜6",
+   "對於結直腸癌肝轉移，應達成適當的手術邊界，且盡量保留肝實質(parenchyma sparing)"
+  ],
+  "answer": "ABCE",
+  "ref": "G Wakabayashi et al.\"Recommendations for laparoscopic liver resection: a report from the second international consensus conference held in Morioka.\"Ann Surg 2015, pp. 619~629",
+  "images": []
+ },
+ {
+  "no": 92,
+  "stem": "有關膽囊癌(gall bladder cancer)淋巴轉移之敘述，何者正確？",
+  "options": [
+   "cystic node 為N1",
+   "interaortocaval nodes 為 N2",
+   "pericholedochal nodes為 N1",
+   "retroportal nodes 為 N1",
+   "Posterosuperior pancreaticoduodenal nodes 為 N2"
+  ],
+  "answer": "ABCDE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 49, 786~804",
+  "images": []
+ },
+ {
+  "no": 93,
+  "stem": "有關膽囊癌(gall bladder cancer)手術治療之敘述，何者正確？",
+  "options": [
+   "T1a的病人，單純膽囊切除已經足夠",
+   "T1b的病人，建議施行膽囊根除術",
+   "T3的病人，如果有侵犯right portal pedicle，應考慮右肝切除",
+   "局部器官侵犯如胃，十二指腸或結腸等，若無遠處轉移，仍可考慮合併切除",
+   "如果cystic duct stump 有腫瘤侵犯，則必須進行總膽管切除"
+  ],
+  "answer": "ABCDE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 49, 786~804",
+  "images": []
+ },
+ {
+  "no": 94,
+  "stem": "有關膽囊癌(gall bladder cancer)之敘述，何者正確？",
+  "options": [
+   "容易早期經由淋巴，血液，及腹膜轉移，因此預後不佳",
+   "整體而言，五年存活率約20%",
+   "好發於印度地區及美洲原住民",
+   "為最常見的原發性惡行腫瘤",
+   "好發於男性"
+  ],
+  "answer": "ABCD",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 49, 786~804",
+  "images": []
+ },
+ {
+  "no": 95,
+  "stem": "有關膽囊癌(gall bladder cancer)之危險因子，何者正確？",
+  "options": [
+   "cholelithiasis",
+   "inflammatory bowel disease",
+   "primary sclerosing cholangitis",
+   "typhoid fever",
+   "cholecystoenteric fistula"
+  ],
+  "answer": "ABCDE",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 49, 786~804",
+  "images": []
+ },
+ {
+  "no": 96,
+  "stem": "下列關於Whipple operation 術後發生腸胰吻合處廔管(PJ anastomosis fistula)的處理方式何者正確：",
+  "options": [
+   "為了避免腸胰吻合處廔管，即使病人術後情況穩定，也不考慮術後一週內移除引流管",
+   "腸胰吻合處廔管一旦發生應優先考慮手術治療",
+   "當病人術後發生心跳變快、休克、尿液變少、引流管液體呈現如洗碗水般的灰濁色(thin, cloudy, gray \"dishwater\" fluid)時，可能腸胰吻合處裂開(disruption of pancreaticojejunostomy)，應考慮手術治療",
+   "再次手術中如果發現腸胰吻合處裂開，治療策略包括引流、吻合處修補、改成胰胃吻合、Wirsungostomy或全胰切除術",
+   "術後營養補充相當重要，應以全靜脈為主；由於已經發生腸胰吻合處廔管，再次手術時不該加做小腸餵食廔管(feeding jejunostomy)以避免更多的併發症"
+  ],
+  "answer": "CD",
+  "ref": "Gastrointestinal Surgery: Management of Complex Perioperative Complications; Timothy M. Pawlik et al, 2015",
+  "images": []
+ },
+ {
+  "no": 97,
+  "stem": "有關門脈栓塞療法 (portal vein embolization,PVE)之敘述，何者正確？",
+  "options": [
+   "可以有效增加術後殘肝體積，降低術後肝衰竭風險",
+   "J Belghiti 建議正常肝臟之術後殘肝體積不足25%，及應進行PVE",
+   "複雜切肝或合併肝外切除時必須考慮進行",
+   "合併慢性肝病，肝功能受損(如化療後，脂肪肝，或黃疸)，且施行major hepatectomy時，必須施行",
+   "建議由病灶對側的門靜脈進入"
+  ],
+  "answer": "ABCD",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 51B, 833~845",
+  "images": []
+ },
+ {
+  "no": 98,
+  "stem": "有關膽囊癌(gall bladder cancer)之敘述，何者正確？",
+  "options": [
+   "瓷化膽囊 (porcelain gallbladder) 為好發因子，應建議膽囊切除",
+   "和膽囊的長期慢性炎性反應有關",
+   "如果發生位置在infundibulum/cystic duct，則侵犯肝門風險高，術前應仔細評估總膽管或肝葉切除的必要性",
+   "anomalous pancraticobiliary junction 為致病危險因子",
+   "膽結石病人罹患膽囊癌的盛行率約為10%"
+  ],
+  "answer": "ABCD",
+  "ref": "Blumgart’s surgery of the liver,biliary tract and pancreas, Chapter 49, 786~804",
+  "images": []
+ },
+ {
+  "no": 99,
+  "stem": "下列有關Mallory-Weiss tear的敘述何者是正確？",
+  "options": [
+   "多發生於劇烈嘔吐之後",
+   "因胃食道交界處胃黏膜撕裂傷所引起，好發於胃大彎處",
+   "約佔上消化道出血的 5-10%",
+   "有門脈高壓的酒癮患者是死亡的高危險群",
+   "大部分病人須接受手術止血"
+  ],
+  "answer": "ACD",
+  "ref": "Sabiston, Textbook of Surgery 17th ed., p1315及21st ed., p1156",
+  "images": []
+ },
+ {
+  "no": 100,
+  "stem": "下列關於Volvulus的敘述，何者為真？",
+  "options": [
+   "好發於sigmoid colon及cecum",
+   "Cecum volvulus的病人通常不必開刀",
+   "好發於年老臥床，便秘的病人",
+   "Sigmoid coloc volvulus可先試endoscopic reduction",
+   "KUB可見coffee bean sign or bent inner tube sign"
+  ],
+  "answer": "ACDE",
+  "ref": "Sabiston Textbook of Surgery 第16版，p947-949 及21st ed., p1341",
+  "images": []
+ },
+ {
+  "no": 101,
+  "stem": "關於 gastrointestinal stromal cell tumor (GIST) 何者為真？",
+  "options": [
+   "GIST 的70% 發生於胃部",
+   "空腸多於迴腸",
+   "大多呈現 c-KIT (CD117)",
+   "發源於 Enterochromaffin cells",
+   "Gleevec治療轉移無效"
+  ],
+  "answer": "AC",
+  "ref": "Schwartz's Principles of Surgery, 20th Edi p1159-1160 及11th ed., p1149-1150",
+  "images": []
+ },
+ {
+  "no": 102,
+  "stem": "有關小腸腫瘤，何者為是：",
+  "options": [
+   "雖然小腸佔腸胃道75%之長度，黏膜表面也佔 90%以上，但小腸腫瘤相對上發生比率很低。",
+   "最常見的小腸良性腫瘤，包括：良性胃腸基質瘤、腺瘤及脂肪瘤。",
+   "大部分的胃腸基質瘤會表現CD117是 c-kit protooncogene 的蛋白。",
+   "胃腸基質瘤女性發生率遠高於男性，且最常發生在40歲以下。",
+   "若胃腸基質瘤細胞分裂指數 (Mitotic index) 大於10個在每50個高倍視野下，有較高局部復發 (recurrence) 及轉移(metastasis) 的比率。"
+  ],
+  "answer": "ABCE",
+  "ref": "Sabiston Texbook of Surgery, 20th edition, p1354-1162 及 21st ed., p1273-1275",
+  "images": []
+ },
+ {
+  "no": 103,
+  "stem": "十二指腸憩室症（Duodenum diverticulum）下列何者之描述為錯誤？",
+  "options": [
+   "最常發生在第一段十二指腸",
+   "最常發生在十二指腸之腸系膜側之對側",
+   "本症會有發生破裂、出血或阻塞等現象",
+   "本症可能會有膽管炎或胰臟炎發生",
+   "本症若無症狀不須要手術切除"
+  ],
+  "answer": "AB",
+  "ref": "Schwartz's Principles of Surgery, 7th ed. 1999, p1247 及11th ed., p1248,1250",
+  "images": []
+ },
+ {
+  "no": 104,
+  "stem": "關於Hereditary nonpolyposis colorectal cancer (HNPCC)下列何者正確？",
+  "options": [
+   "大腸癌發作的年齡較早",
+   "70﹪癌症發生於直腸",
+   "Synchronous及metachronous cancer發生率不高",
+   "Mucinous type adenocarcinoms佔大多數",
+   "從adenomatous polyp 進展到癌症的速度較快"
+  ],
+  "answer": "AD",
+  "ref": "Sabiston Texbook of Surgery, 17th ed., p1456及 21st ed., p674,1373",
+  "images": []
+ },
+ {
+  "no": 105,
+  "stem": "有關懷孕時之闌尾炎的敘述，何者正確？",
+  "options": [
+   "擴大的子宮會使超音波判讀困難",
+   "Gadolinium-contrast MRI 是有用的診斷工具",
+   "懷孕末期闌尾向上位移，會增加診斷的困難",
+   "懷孕時之闌尾炎，只要病人情況改善就應採保守性治療",
+   "當診斷有懷疑存在時，腹腔鏡檢查可能有幫忙"
+  ],
+  "answer": "ACE",
+  "ref": "Schwartz's Principles of Surgery, 7th ed., p1385-1389 及 11th ed., p1338",
+  "images": []
+ },
+ {
+  "no": 106,
+  "stem": "有關門脈高壓的敘述，下列何者正確？",
+  "options": [
+   "Portal pressure gradient 大於 5 mmHg",
+   "Schistomsomiasis屬於prehepatic portal hypertension",
+   "Liver cirrhosis屬於intrahepatic portal hypertension",
+   "Budd-Chiari syndrome是postsinusoidal cause portal hypertension",
+   "Portal vein thrombosis 屬於intrahepatic portal hypertension"
+  ],
+  "answer": "ACD",
+  "ref": "Sabiston Textbook of Surgery, 18th ed. p.1526及21st ed., p1444-1445",
+  "images": []
+ },
+ {
+  "no": 107,
+  "stem": "有關食道靜脈瘤，下列敘述何者正確？",
+  "options": [
+   "被診斷門脈高壓的患者兩年內發生食道靜脈瘤出血的比例有30%",
+   "肝硬化患者進展成食道靜脈瘤約每年8%",
+   "Endoscopic sclerotherapy治療食道靜脈瘤 rebleeding 少於endoscopic variceal band ligation",
+   "應長期服用β-blocker預防出血",
+   "急性出血時應優先考慮balloon tamponade"
+  ],
+  "answer": "ABD",
+  "ref": "Maingot's Abdominal Operations, 11th ed., p834-835 及13th ed., p2773-2777, 755",
+  "images": []
+ },
+ {
+  "no": 108,
+  "stem": "腹部手術後發生疝氣（Incisional hernia）的原因，包括：",
+  "options": [
+   "肥胖 (obesity)",
+   "年紀大 (advanced age)",
+   "術後傷口感染 (surgical site infection)",
+   "藥物如 corticosteroids 及化學治療",
+   "腹水 (ascites)"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston: Textbook of Surgery, 16th ed., p795 及21st ed., p1122",
+  "images": []
+ },
+ {
+  "no": 109,
+  "stem": "有關小腸惡性腫瘤之敘述，何者為非？",
+  "options": [
+   "最常見的小腸惡性腫瘤為Leiomyosarcoma",
+   "Neuroendocrine tumors 好發於Appendix及遠端小腸",
+   "症狀以慢性腹痛及體重減輕",
+   "小腸淋巴瘤經手術切除再加上放射線及化學治療，可得到很好的存活率",
+   "小腸之adenocarcinoma比較容易早期診斷"
+  ],
+  "answer": "AE",
+  "ref": "Sabiston, Text Book of Surgery. 16th ed., p899-903 及 21st ed., p1276,1277,1282,1283",
+  "images": []
+ },
+ {
+  "no": 110,
+  "stem": "腹股溝疝氣 Nyhus classification 何者錯誤？",
+  "options": [
+   "Type I: indirect type, internal ring normal",
+   "Type II: indirect type, internal ring dilated, posterior wall intact",
+   "Type IIIA: indirect type, internal ring dilated, posterior wall defect",
+   "Type IIIB: direct type",
+   "Type IV: femoral hernia"
+  ],
+  "answer": "CDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 45, p. 1111",
+  "images": []
+ },
+ {
+  "no": 111,
+  "stem": "關於 umbilical hernia 的敘述何者錯誤？",
+  "options": [
+   "在嬰兒很常見，大部分在2歲時會自動閉合",
+   "在成人較常見於女性或腹壓增加者（懷孕、肥胖、腹水）",
+   "需要修補者包含 symptomatic, a large hernia, incarceration, thinning of the overlying skin, uncontrollable ascites",
+   "Defect 小可以用 Mayo repair，復發率低",
+   "Defect 大於5公分才需要人工網膜修補"
+  ],
+  "answer": "DE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 45, p. 1121-1122",
+  "images": []
+ },
+ {
+  "no": 112,
+  "stem": "針對 Spigelian hernia 的敘述何者正確？",
+  "options": [
+   "Spigelian hernia 發生在腹直肌與半月線 (semilunar line) 之間",
+   "幾乎都在弓狀線 (arcuate line) 之上",
+   "缺乏 anterior rectus fascia",
+   "大部分 hernia 很大，但凸出不明顯，故需要超音波或電腦斷層幫助診斷",
+   "Spigelian hernia 需要修補因為會有 incarceration 的風險"
+  ],
+  "answer": "AE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 45, p. 1128",
+  "images": []
+ },
+ {
+  "no": 113,
+  "stem": "下列腹部檢查的 sign 何者錯誤？",
+  "options": [
+   "Grey Turner sign: Periumbilical bruising",
+   "Cullen sign: Local areas of discoloration near umbilicus and flanks",
+   "Blumberg sign: Transient abdominal wall rebound tenderness",
+   "Iliopsoas sign: Elevation of extended leg against resistance is painful",
+   "Obturator sign: Flexion and external rotation of right thigh creates hypogastric pain"
+  ],
+  "answer": "AB",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 46, p. 1139",
+  "images": []
+ },
+ {
+  "no": 114,
+  "stem": "下列關於腹內壓力的敘述，何者正確？",
+  "options": [
+   "正常腹內壓力約為 5-7 mm Hg",
+   "Abdominal compartment syndrome (ACS) 腹內壓大於 20 mmHg",
+   "Grade 3或4 abdominal hypertension 需要 surgical decompression",
+   "Primary ACS 不建議 decompressive laparotomy",
+   "Secondary ACS 治療包括改善fluid overload，放置鼻胃管、導尿管，放鬆腹壁及腹內引流。"
+  ],
+  "answer": "ABCE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 49, p. 1141-1142",
+  "images": []
+ },
+ {
+  "no": 115,
+  "stem": "腸胃道出血的手術適應症包含：",
+  "options": [
+   "輸血4單位後仍然血液動力學不穩定",
+   "內視鏡治療失敗",
+   "兩次內視鏡止血後再度出血",
+   "復發性出血導致休克",
+   "持續出血每日需要輸血超過 2U"
+  ],
+  "answer": "BCD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 47, p.1155",
+  "images": []
+ },
+ {
+  "no": 116,
+  "stem": "符合減重手術的適應症有：",
+  "options": [
+   "Body mass index (BMI) >37.5 kg/m2",
+   "BMI >32.5 kg/m2 及肥胖相關併發症",
+   "飲食及內科方式治療失敗",
+   "心理狀態穩定，有減重決心",
+   "酒精或藥物成癮。"
+  ],
+  "answer": "ABCD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 48, p.1174",
+  "images": []
+ },
+ {
+  "no": 117,
+  "stem": "減重手術建議 laparoscopic sleeve gastrecomy 優於 Roux-en-Y gastric bypass 或 biliopancreatic diversion 的情況有：",
+  "options": [
+   "Iron decifiency anemia",
+   "Crohn small bowel disease",
+   "Cardiac failure",
+   "Severe arthritis requiring NSAIDs",
+   "Vitamin deficiencies"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 48, p.1190",
+  "images": []
+ },
+ {
+  "no": 118,
+  "stem": "可能造成 hypergastrinemia 的原因有：",
+  "options": [
+   "Retained gastric antrum",
+   "Gastric outlet obstruction",
+   "Zolliger-Ellison syndrome",
+   "PPIs",
+   "Pernicious anemia"
+  ],
+  "answer": "ABCDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 49, p.1200",
+  "images": []
+ },
+ {
+  "no": 119,
+  "stem": "胃腺癌可以內視鏡切除的標準原則包含：",
+  "options": [
+   "Intestinal type",
+   "Tumor 侷限在黏膜層",
+   "有侵犯淋巴血管",
+   "Ulcerated tumor",
+   "直徑小於2公分"
+  ],
+  "answer": "ABE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 49, p. 1226",
+  "images": []
+ },
+ {
+  "no": 120,
+  "stem": "關於胃 gastrointestinal stromal tumors (GISTs) 的惡性程度何者正確？",
+  "options": [
+   "Benign: 2公分以下，50 HPF下分裂數 5 以下",
+   "Probably benign: >2-5公分以下，50 HPF下分裂數 5 以下",
+   "Low to moderate malignant potential: >2-5公分以下，50 HPF下分裂數>5",
+   "High malignant potential: >10公分，50 HPF下分裂數 5 以下",
+   "High malignant potential: <5-10公分，50 HPF下分裂數>5"
+  ],
+  "answer": "ABCE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 49, p. 1226",
+  "images": []
+ },
+ {
+  "no": 121,
+  "stem": "關於 Crohn disease 及 Ulcerative colitis 的比較何者正確？",
+  "options": [
+   "Rectal bleeding 較常見於 ulcerative colitis",
+   "Skip lesions 較常見於 ulcerative colitis",
+   "Anal fissure/fistula 較常見於 Crohn disease",
+   "Ulcerative colitis 幾乎都有 rectal sparing",
+   "Linear, deep ulceration 較常見於 Crohn disease"
+  ],
+  "answer": "ACE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 50, p. 1265",
+  "images": []
+ },
+ {
+  "no": 122,
+  "stem": "關於 duodenal diverticula 的敘述何者正確？",
+  "options": [
+   "通常發現於 40歲以上，女性較常見",
+   "通常發生在十二指腸 second portion medial wall",
+   "大部分沒有症狀，做胃鏡或上消化道攝影時意外發現",
+   "Intraluminal type 皆能以內視鏡治療",
+   "Extraluminal type 有症狀或造成穿孔、出血時需手術切除"
+  ],
+  "answer": "ABCE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 50, p.1286-1287",
+  "images": []
+ },
+ {
+  "no": 123,
+  "stem": "關於 enterocutaneous fistula 的敘述何者錯誤？",
+  "options": [
+   "75-85%是醫源性的（吻合處滲漏、小腸或血流損傷、抽吸導管磨損、retention suture造成小腸撕裂傷等等）",
+   "其他原因包括 Crohn disease, malignancy, radiation enteritis, diverticulitis, trauma 等",
+   "High-output fistulas 在24小時內排出量大於 500 mL",
+   "Distal fistulas 通常有較高的 output 及 體液電解質散失",
+   "若 fistula 六週後仍未自行癒合，可能需要手術"
+  ],
+  "answer": "D",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 50, p.1291-1292",
+  "images": []
+ },
+ {
+  "no": 124,
+  "stem": "預測 Enterocutaneous fistula 會自行癒合的因素有：",
+  "options": [
+   "Surgical etiology",
+   "Appendicitis or diverticulitis",
+   "Distal small bowel obstruction",
+   "Length >2cm, end fistula",
+   "Output >500 mL/24 hours"
+  ],
+  "answer": "ABD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 50, p.1291-1292",
+  "images": []
+ },
+ {
+  "no": 125,
+  "stem": "Liver hemangioma 的敘述何者正確？",
+  "options": [
+   "肝臟最常見的良性腫瘤",
+   "男性較女性多 (約 3:1)",
+   "大部分小於5公分無症狀",
+   "Kasabach-Merritt syndrome 為 hemangioma 破裂時造成thromocytopenia 及 consumptive coagulopathy",
+   "發生破裂、大小大幅度改變、Kasabach-Merritt syndrome 時需要手術切除"
+  ],
+  "answer": "ACDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 54, p.1464",
+  "images": []
+ },
+ {
+  "no": 126,
+  "stem": "肝臟手術 left hepatectomy 所切除的肝葉有：",
+  "options": [
+   "I",
+   "II",
+   "III",
+   "IV",
+   "V"
+  ],
+  "answer": "BCD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 54, p.1479",
+  "images": []
+ },
+ {
+  "no": 127,
+  "stem": "對於 proximal cholangiocarcinoma 的Bismuth-Corlette分類及治療的敘述何者正確？",
+  "options": [
+   "Type I 及 type II 切除 common bile duct (CBD) 含 5 至 10 mm margin",
+   "Type II 可能也需要切除部分肝臟，通常是 caudate lobe",
+   "Type IIIa 侵犯至左肝管",
+   "Type III 及 type IV 可能需要切除及重建 portal vein, hepatic artery",
+   "若切除到肝內膽管分枝，考慮使用 transanastomotic stent"
+  ],
+  "answer": "ABDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 55, p.1521",
+  "images": []
+ },
+ {
+  "no": 128,
+  "stem": "「非膽石性」胰臟炎的 Ranson prognostic criteria 何者錯誤？",
+  "options": [
+   "年齡大於 55歲",
+   "初步血糖大於 200 mg/dL",
+   "初步 WBC count 大於 16,000 cells/mm3",
+   "住院48小時後 BUN 增加大於 2 mg/dL",
+   "住院48小時後輸液需求大於 4L"
+  ],
+  "answer": "DE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 56, p.1536",
+  "images": []
+ },
+ {
+  "no": 129,
+  "stem": "「膽石性」胰臟炎的 Ranson prognostic criteria 何者正確？",
+  "options": [
+   "年齡大於 70歲",
+   "初步血糖大於 220 mg/dL",
+   "初步 WBC count 大於 18,000 cells/mm3",
+   "住院48小時後 BUN 增加大於 5 mg/dL",
+   "住院48小時後輸液需求大於 6L"
+  ],
+  "answer": "ABC",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 56, p.1536",
+  "images": []
+ },
+ {
+  "no": 130,
+  "stem": "急性胰臟炎的併發症的敘述何者錯誤？",
+  "options": [
+   "Fluid collections 依 revised Atlanta classification 是根據急性/慢性及simple/complex 性質",
+   "Pancreatic 實質及周圍組織發炎若無組織壞死，在四周內稱為 Acute peripancreatic fluid collection；大於四周稱為Pseudocyst",
+   "Walled-off necrosis (WON): 四周內 necrotizing pancreatitis",
+   "Acute necrotic collection (ANC): 大於四周 necrotizing pancreatitis",
+   "Fluid collections 若變成感染性則需要引流及抗生素治療"
+  ],
+  "answer": "CD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 56, p.1538-1539",
+  "images": []
+ },
+ {
+  "no": 131,
+  "stem": "下列何者是 Intraductal Papillary Mucinous Neoplasm (IPMN)的 worrisome features？",
+  "options": [
+   "Main pancreatic duct size >1 cm",
+   "Enhancing mural nodules >5 mm",
+   "BD-IPMN cyst size >3 cm",
+   "Abrupt caliber change in main duct with upstream atrophy",
+   "Cyst growth >5mm over 2 years"
+  ],
+  "answer": "CDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 56, p.1548-1549",
+  "images": []
+ },
+ {
+  "no": 132,
+  "stem": "胰十二指腸切除手術(Pancreaticoduodenectomy) 術後併發症的敘述何者錯誤？",
+  "options": [
+   "常見的併發症是 delayed gastric emptying 及 pancreatic leak",
+   "Pancreatic leak 定義為術後第三天引流管 amylase 大於3倍正常血清 amylase 值",
+   "胰臟腺體的質地越軟越不容易 leak",
+   "大部分 pancreatic fistula 靠術中置放的引流管就可以控制",
+   "Postoperative pancreatic fistula 的 ISGPF分類 grade A 需要再次手術"
+  ],
+  "answer": "CE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 56, p.1558-1559",
+  "images": []
+ },
+ {
+  "no": 133,
+  "stem": "Overwhelming postsplenectomy infection (OPSI) 相關的危險因子有：",
+  "options": [
+   "Old age",
+   "Thalassemia major",
+   "Sick cell anemia",
+   "Idiopathic thrombocytopenia",
+   "Lymphoma"
+  ],
+  "answer": "BCDE",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 57, p.1579",
+  "images": []
+ },
+ {
+  "no": 134,
+  "stem": "Splenectomy 成年病人需要接種的疫苗敘述何者正確？",
+  "options": [
+   "Pneumococcal vaccination (PCV13, PPSV23 8 weeks later)",
+   "H. influenzae type b conjugate",
+   "Meningococcal vaccination (MenACWY; MenB series)",
+   "Seasonal influenza vaccination",
+   "理想上在 elective splenectomy 術前2週內接種"
+  ],
+  "answer": "ABCD",
+  "ref": "Sabiston Textbook of Surgery, 21st ed., Chapter 57, p.1579-1580",
+  "images": []
+ },
+ {
+  "no": 135,
+  "stem": "下列關於 dumping syndrome 的敘述何者錯誤？",
+  "options": [
+   "Early dumping syndrome 歸因於 bowel distention, relative hypovolemia, GI hormone hypersecretion, autonomic dysregulation",
+   "Late dymping syndrome 的症狀與 reactive hypoglycemia 相關",
+   "不同術式造成 dumping syndrome 的機率：Billroth I >Billroth II > Roux-en-Y GJ",
+   "飲食調整的方式包含少量多餐、流質與固體分開、低蛋白及脂質、添加膳食纖維",
+   "少數病人最終需要手術治療"
+  ],
+  "answer": "CD",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 62, p.719-721",
+  "images": []
+ },
+ {
+  "no": 136,
+  "stem": "下列關於 afferent loop syndrome 的敘述何者錯誤？",
+  "options": [
+   "最常見於 distal gastrectomy with Billroth II or Roux-en-Y GJ及 total gastrectomy with Roux-en-Y esophagojejunostomy",
+   "成因包含 afferent loop kinking, internal herniation, volvulus, adhesions 等",
+   "在 Billroth II 吻合術式，較常見於 redundant and retrocolic afferent loops",
+   "Mesocolic defect 沒關好會導致 antecolic afferent limp 的internal herniation",
+   "在 Roux-en-Y 吻合術式，較常見於 Roux limb antecolic antegastric position"
+  ],
+  "answer": "CDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 62, p.725-727",
+  "images": []
+ },
+ {
+  "no": 137,
+  "stem": "下列關於 afferent loop syndrome 的敘述何者正確？",
+  "options": [
+   "慢性 afferent loop syndrome 的典型表現是餐後腹痛在bilious vomiting 後緩解",
+   "若阻塞的程度嚴重，afferent loop 可能無法充分減壓，持續腫脹可能會導致穿孔",
+   "腹部電腦斷層可能看到C-loop sign, keyboard sign",
+   "原則上需要手術治療處理造成阻塞的原因 (腫瘤，邊緣性潰瘍，沾黏，腹內疝氣）",
+   "手術方式考慮 addition of Braun anastomosis in BII, conversion of BII to Roux-en-Y GJ or BI, excision of the redundant loop in Roux-en-Y jejunojejunostomy"
+  ],
+  "answer": "ABCDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 62, p.725-727",
+  "images": []
+ },
+ {
+  "no": 138,
+  "stem": "下列關於 marginal ulcer 的敘述何者錯誤？",
+  "options": [
+   "在 Billroth II 術式比 Roux-en-Y anastomosis 常見",
+   "因沒有與胃酸中和的成分直接與小腸粘膜接觸所導致",
+   "Retained antrum 內 G cells 持續分泌 gastrin 刺激 proximal gastric remnant 內的壁細胞分泌酸",
+   "加重因子有 incomplete vagotomy、NSAIDs、抽菸",
+   "治療包含PPI、停用 NSAIDs、治療胃幽門桿菌、戒菸"
+  ],
+  "answer": "A",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 62, p.730-731",
+  "images": []
+ },
+ {
+  "no": 139,
+  "stem": "Chronic pancreatitis 的危險因子有：",
+  "options": [
+   "Alcohol drinking",
+   "Hyperlipidemia",
+   "Hypocalcemia",
+   "Recurrent acute pancreatitis",
+   "Pancreatic divisum"
+  ],
+  "answer": "ABDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 92, p.1086",
+  "images": []
+ },
+ {
+  "no": 140,
+  "stem": "針對 Chronic pancreatitis 的外科治療何者正確？",
+  "options": [
+   "目標是減緩疼痛及治療併發症",
+   "可治療包括：biliary stricture, duodenal stenosis, pseudocyst, pancreatic neoplasm",
+   "手術方式取決於胰管是否擴張、是否有腫瘤及腫瘤位置",
+   "Resection手術包含：Whipple procedure, PPPD, Duval procedure",
+   "Decompression手術包含：Beger procedure, Peustow-Gillesby procedure"
+  ],
+  "answer": "ABC",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 92, p.1091",
+  "images": []
+ },
+ {
+  "no": 141,
+  "stem": "關於 Pancreatic cystic lesion的fluid特性何者錯誤？",
+  "options": [
+   "Pseudocyst: CEA low, amylase high, mucin absent",
+   "Serous cystadenoma: CEA low, amylase low, mucin absent",
+   "Mucinous cystic neoplasm: CEA low, amylase high, mucin usually present",
+   "Mucinous cystic neoplasm: CEA high, amylase low, mucin usually present",
+   "Intraductal papillary mucinous neoplasm: CEA variable, amylase low, mucin usually present"
+  ],
+  "answer": "CE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 93, p.1099",
+  "images": []
+ },
+ {
+  "no": 142,
+  "stem": "關於胰臟癌 (pancreatic adenocarcinoma) 的敘述何者正確？",
+  "options": [
+   "危險因子有年紀、糖尿病、肥胖、抽菸、慢性胰臟炎、家族史等",
+   "大部分發生年齡大於50歲",
+   "相關基因有BRCA2, APC, PRSS1 mutations",
+   "Peutz-Jeghers syndrome, Lynch syndrome 及FAMMM syndrome 罹患胰臟癌風險也較高",
+   "有三位一等親親屬皆罹患胰臟癌與只有一位一等親親屬罹患胰臟癌比較，罹癌風險不會增加"
+  ],
+  "answer": "ABCD",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 96, p.1137",
+  "images": []
+ },
+ {
+  "no": 143,
+  "stem": "關於胰臟創傷 (pancreatic trauma) 的敘述何者正確？",
+  "options": [
+   "American Association for the Surgery of Trauma (AAST) 建議可用腹部電腦斷層來評估胰臟受傷程度",
+   "不論是否手術過都可用 ERCP 評估胰管損傷",
+   "AAST grade I 及 grade II injury 可採取非手術治療(nonoperative management)",
+   "AAST grade III injury 可考慮 distal pancreatectomy with or without splenectomy",
+   "嚴重pancreatic injury 的手術目標在於：維持膽道胰管的消化道通暢、將消化液分流減少對胰臟外分泌腺的刺激、廣泛引流術後預期會發生的滲漏或瘻管"
+  ],
+  "answer": "ACDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 102, p.1209-1212",
+  "images": []
+ },
+ {
+  "no": 144,
+  "stem": "Hilar cholangiocarcinoma 手術無法切除的條件有：",
+  "options": [
+   "Main port vein involvement or encasement",
+   "Bilateral hepatic artery / portal venous branch involvement",
+   "Lobar atrophy with contralateral portal vein involvement",
+   "N1 nodal involvement",
+   "Distant metastases"
+  ],
+  "answer": "ABCE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 122, p.1131",
+  "images": []
+ },
+ {
+  "no": 145,
+  "stem": "American Association for the Surgery of Trauma (AAST) 對肝臟創傷的分級敘述何者正確？",
+  "options": [
+   "Grade I: Subcapsular hematoma <10% surface area; capsular tear <1 cm depth",
+   "Grade III: Ruptured subcapsular or parenchymal hematoma; intraparenchymal hematoma >10 cm or expanding",
+   "Grade IV: Parenchymal disruption >75% hepatic lobe or >3 Couinaud segments",
+   "Grade V: Juxtahepatic venous injuries",
+   "Grade IV: Hepatic avulsion"
+  ],
+  "answer": "ABDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 123, p.1447",
+  "images": []
+ },
+ {
+  "no": 146,
+  "stem": "曾經治療過的癌症，在肝移植 (orthotopic liver transplant) 術後為『高』復發機率的腫瘤型態有：",
+  "options": [
+   "Papillary thyroid",
+   "Breast",
+   "Cervix",
+   "Bladder",
+   "Sarcoma"
+  ],
+  "answer": "BDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 127, p.1495",
+  "images": []
+ },
+ {
+  "no": 147,
+  "stem": "關於 Drug-induced liver injury (DILI) 的敘述何者錯誤？",
+  "options": [
+   "危險因子有elderly age, polypharmacy, preexisting liver damage, genetic predisposition",
+   "大部分表現為無症狀的肝功能上升",
+   "以 serum ALT/ALK-P (R ratio) 分類來區別原因",
+   "Hepatocellular injury: R ratio <2",
+   "Cholestatic injury: R ratio >5"
+  ],
+  "answer": "DE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 130, p.1526-1527",
+  "images": []
+ },
+ {
+  "no": 148,
+  "stem": "肝臟切除手術前評估肝臟功能的敘述何者錯誤？",
+  "options": [
+   "在正常肝功能 (bilirubin, albumin, prothrombin time) 者可以用indocyanine green (ICG) clearance 評估",
+   "若注射15分鐘後 ICG retention >20%，最多可切除1/4的肝臟",
+   "Child-Pugh score B 可切除 50% 的肝臟",
+   "Child-Pugn score C 可切除 25% 的肝臟",
+   "Portal hypertension 及 bilirubin 上升是術後肝功能decompensation 的危險因子"
+  ],
+  "answer": "BCD",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 132, p.1549-1550",
+  "images": []
+ },
+ {
+  "no": 149,
+  "stem": "在門靜脈高壓的病人做 Transjugular intrahepatic portosystemic shunt (TIPS) 的絕對禁忌症有：",
+  "options": [
+   "Active infections or sepsis",
+   "Severe pulmonary hypertension",
+   "Congestive heart failure",
+   "Multiple hepatic cysts",
+   "Portal vein thrombosis"
+  ],
+  "answer": "ABCD",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 135, p.1584",
+  "images": []
+ },
+ {
+  "no": 150,
+  "stem": "腹腔鏡皮切除術 (laparoscopic splenectomy) 的適應症有：",
+  "options": [
+   "AAST grade IV and V splenic injury",
+   "Hereditary spherocytosis",
+   "Idiopathic thrombocytopenic purpura (ITP)",
+   "Thrombotic thrombocytopenic purpura (TTP)",
+   "Autoimmune hemolytic anemia"
+  ],
+  "answer": "BCDE",
+  "ref": "Shackelford's Surgery of the Alimentary Tract, 8th ed., Chapter 138, p.1603-1604",
+  "images": []
+ }
+]
