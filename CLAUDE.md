@@ -33,6 +33,7 @@ push 到 main → GitHub Actions 跑 build＋檢查 → 通過才部署到 GitHu
 2. 照 `docs/style.md` 寫進 `banks/<bank>/exp/<起>-<迄>.md`：檔名＝這個檔案實際涵蓋的題號（三位數，如 `001-003.md`）；一檔只放連續題號，一批不一定剛好 10 題。
 3. `python pipeline/build.py && python pipeline/check.py`，兩者都要 0 problems。有改到 `site/` 時另跑 `node --check site/app.js && node --check site/sw.js`（CI 也會跑），可選 `python pipeline/test_site.py`。
 4. 每批一個 commit，訊息格式 `<bank>: Q1–Q10 詳解`（en dash，兩端都寫 Q）→ `git pull --rebase` → `git push origin HEAD:main`。不要攢很多批才 commit：session 中斷時，已 commit 的都不會丟。
+   push 後不要停下來等 Actions，直接寫下一批；每次 push 前看一下上一次 run 的結果，只有失敗（conclusion: failure）才處理，queued／in_progress 不用管。
 5. 題量大時用 subagent 平行：每個 subagent 負責一個不重疊題號範圍的檔案，告訴它讀 `docs/style.md`、用 `show.py` 看題目、只寫自己的檔案。主 session 負責分派、跑 build＋check、修正、commit。同一題庫不要兩個 session 同時寫同一段題號。
 6. 一個題庫寫完後做 C（查證），並更新 `docs/decisions.md` 的進度。
 
