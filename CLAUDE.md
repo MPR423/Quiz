@@ -20,12 +20,13 @@ push 到 main → GitHub Actions 跑 build＋檢查 → 通過才部署到 GitHu
 | `docs/decisions.md` | 使用者做過的決定與進度紀錄 |
 
 ## 開場
-1. 若 repo 根目錄有 `MIGRATION.md`，先照它做完（一次性）。
-2. `python pipeline/status.py` 看進度。
-3. 列出使用者回報：`gh api "repos/<owner>/<repo>/issues?labels=回報&state=open"`（owner/repo 從 `git remote get-url origin` 解析）。有的話先告訴使用者，照使用者指示決定要不要先處理。
+1. `git fetch origin`，確認目前工作基於最新的 `origin/main`（`git merge-base --is-ancestor origin/main HEAD`）；不是的話先 `git rebase origin/main`。session 分支可能是舊版本，不要把落後的 commit merge 回 main。
+2. 若 repo 根目錄有 `MIGRATION.md`，先照它做完（一次性）。
+3. `python pipeline/status.py` 看進度。
+4. 列出使用者回報：`gh api "repos/<owner>/<repo>/issues?labels=回報&state=open"`（owner/repo 從 `git remote get-url origin` 解析）。有的話先告訴使用者，照使用者指示決定要不要先處理。
 
 進度以 `status.py` 為準；`docs/decisions.md` 只記里程碑與決定。
-4. 照使用者指示做；指示不清楚就問。
+5. 照使用者指示做；指示不清楚就問。
 
 ## A. 寫詳解（最常見）
 1. `python pipeline/status.py <bank>` → 列出未寫題號，並建議下一批（最多 10 題連續題號）與檔名；`python pipeline/show.py <bank> --next 10` 印出同一批題目（有圖就用 Read 打開 `banks/<bank>/img/...`）。使用者指定題號時照指定，用 `show.py <bank> <起> <迄>`。
