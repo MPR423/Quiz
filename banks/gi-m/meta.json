@@ -1,0 +1,206 @@
+{
+ "id": "gi-m",
+ "order": 110,
+ "group": "外科",
+ "title": "消化外科・複選題庫",
+ "short": "消外複選",
+ "type": "multi",
+ "taxonomy": "surg",
+ "sub_default": "消化外科",
+ "source": "sources/消化外科_複.pdf",
+ "parser": "parse_surg",
+ "fixes": {
+  "gi-m-001": [
+   [
+    "效置",
+    "放置"
+   ]
+  ],
+  "gi-m-015": [
+   [
+    "Roux-en-anastomosis",
+    "Roux-en-Y anastomosis"
+   ]
+  ],
+  "gi-m-019": [
+   [
+    "蘭尾炎",
+    "闌尾炎"
+   ]
+  ],
+  "gi-m-022": [
+   [
+    "thrombocypopenic",
+    "thrombocytopenic"
+   ]
+  ],
+  "gi-m-027": [
+   [
+    "spleep",
+    "sleep"
+   ]
+  ],
+  "gi-m-029": [
+   [
+    "Bormann",
+    "Borrmann"
+   ],
+   [
+    "Helicopyloric infection",
+    "Helicobacter pylori infection"
+   ]
+  ],
+  "gi-m-037": [
+   [
+    "顥影劑",
+    "顯影劑"
+   ]
+  ],
+  "gi-m-046": [
+   [
+    "其制病機轉",
+    "其致病機轉"
+   ]
+  ],
+  "gi-m-047": [
+   [
+    "短腸症侯群",
+    "短腸症候群"
+   ]
+  ],
+  "gi-m-056": [
+   [
+    "ileocecal value",
+    "ileocecal valve"
+   ]
+  ],
+  "gi-m-061": [
+   [
+    "nerver",
+    "nerve"
+   ],
+   [
+    "Lumber plexus",
+    "Lumbar plexus"
+   ]
+  ],
+  "gi-m-064": [
+   [
+    "Grey Tuner’s",
+    "Grey Turner’s"
+   ]
+  ],
+  "gi-m-073": [
+   [
+    "umbilical hemia",
+    "umbilical hernia"
+   ]
+  ],
+  "gi-m-087": [
+   [
+    "ciliac axis",
+    "celiac axis"
+   ]
+  ],
+  "gi-m-089": [
+   [
+    "皮外引流",
+    "經皮引流"
+   ]
+  ],
+  "gi-m-094": [
+   [
+    "惡行腫瘤",
+    "惡性腫瘤"
+   ]
+  ],
+  "gi-m-098": [
+   [
+    "pancraticobiliary",
+    "pancreaticobiliary"
+   ]
+  ],
+  "gi-m-100": [
+   [
+    "Sigmoid coloc volvulus",
+    "Sigmoid colon volvulus"
+   ]
+  ],
+  "gi-m-104": [
+   [
+    "adenocarcinoms",
+    "adenocarcinoma"
+   ]
+  ],
+  "gi-m-106": [
+   [
+    "Schistomsomiasis",
+    "Schistosomiasis"
+   ]
+  ],
+  "gi-m-117": [
+   [
+    "gastrecomy",
+    "gastrectomy"
+   ],
+   [
+    "decifiency",
+    "deficiency"
+   ]
+  ],
+  "gi-m-118": [
+   [
+    "Zolliger",
+    "Zollinger"
+   ]
+  ],
+  "gi-m-125": [
+   [
+    "thromocytopenia",
+    "thrombocytopenia"
+   ]
+  ],
+  "gi-m-133": [
+   [
+    "Sick cell anemia",
+    "Sickle cell anemia"
+   ]
+  ],
+  "gi-m-135": [
+   [
+    "dymping",
+    "dumping"
+   ]
+  ],
+  "gi-m-136": [
+   [
+    "afferent limp",
+    "afferent limb"
+   ]
+  ],
+  "gi-m-140": [
+   [
+    "Peustow",
+    "Puestow"
+   ]
+  ],
+  "gi-m-144": [
+   [
+    "Main port vein",
+    "Main portal vein"
+   ]
+  ],
+  "gi-m-148": [
+   [
+    "Child-Pugn",
+    "Child-Pugh"
+   ]
+  ],
+  "gi-m-150": [
+   [
+    "腹腔鏡皮切除術",
+    "腹腔鏡脾切除術"
+   ]
+  ]
+ }
+}
