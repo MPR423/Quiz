@@ -1,4 +1,3 @@
-yaml
 # Every push to main: build site data from banks/*, run the checks, and deploy site/ to GitHub Pages.
 # If any check fails, nothing is deployed and the previous version stays online.
 # One-time setup: Settings → Pages → Build and deployment → Source: "GitHub Actions".
