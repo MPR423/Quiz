@@ -1,0 +1,902 @@
+[
+ {
+  "no": 1,
+  "page": 1,
+  "cat": "神經外科 複",
+  "stem": "有關carotid-cavernous fistula，那二者不正確？",
+  "options": [
+   "shunt between meningeal branches of internal carotid artery and cavernous sinus is high flow",
+   "dural shunt between meningeal branches of external carotid artery and cavernous sinus is low flow",
+   "常併發chemosis",
+   "可聽到ocular bruits",
+   "ophthalmoplegia絕對不可能發生於兩側"
+  ],
+  "answer": "AE",
+  "ref": "Handbook Neurosurgery 9th edition, p1321"
+ },
+ {
+  "no": 2,
+  "page": 1,
+  "cat": "神經外科 複",
+  "stem": "新生兒的periventricular-intraventricular hemorrhage(PIVH)之risk factors，那兩項可能性較低？",
+  "options": [
+   "volume expansion",
+   "diarrhea",
+   "asphyxia",
+   "seizure",
+   "fever"
+  ],
+  "answer": "BE",
+  "ref": "Handbook Neurosurgery 9th edition, p1424"
+ },
+ {
+  "no": 3,
+  "page": 1,
+  "cat": "神經外科 複",
+  "stem": "在加護病房，使用dopamine下列敘述那兩項不正確？",
+  "options": [
+   "a vasoconstrictor",
+   "容易轉變成norepinephrine",
+   "可引起hypoglycemia",
+   "平常使用量為2-5 mg/kg/minute",
+   "可引起cerebral vasodilatation"
+  ],
+  "answer": "CD",
+  "ref": "Handbook Neurosurgery 9th edition, p143"
+ },
+ {
+  "no": 4,
+  "page": 2,
+  "cat": "神經外科 複",
+  "stem": "有關上頸椎的風濕性關節炎（R.A），那些選項描述不正確？",
+  "options": [
+   "常併發atlantoaxial subluxation",
+   "subluxation以posterior subluxation較常見",
+   "pannus formation為acute inflammatory granulation tissue發生在odontoid附近",
+   "正常成人的atlanto-dental index< 2mm",
+   "會造成atlas的transverse ligament變loosening"
+  ],
+  "answer": "BCD",
+  "ref": "Handbook Neurosurgery 9th edition, p1196"
+ },
+ {
+  "no": 5,
+  "page": 2,
+  "cat": "神經外科 複",
+  "stem": "下列病變引起的Dementia，那兩項是最明顯可以治療的？",
+  "options": [
+   "multi-infarct dementia",
+   "Creutzfeldt-Jakob disease",
+   "subdural hematoma",
+   "hydrocephalus（normal pressure hydrocephalus）",
+   "Parkinson's disease"
+  ],
+  "answer": "CD",
+  "ref": "Handbook Neurosurgery 9th edition, p189"
+ },
+ {
+  "no": 6,
+  "page": 2,
+  "cat": "神經外科 複",
+  "stem": "下列疾病中，那三種較可能會造成communicating hydrocephalus？",
+  "options": [
+   "Aqueductal stenosis",
+   "Meningitis",
+   "Subarachnoid hemorrhage",
+   "Choroid plexus papilloma",
+   "Atresia of the foramina of Luschka and Magendie"
+  ],
+  "answer": "BCD",
+  "ref": "Neurosurgery, Wilkins, et al. 2nd ed., p3626"
+ },
+ {
+  "no": 7,
+  "page": 3,
+  "cat": "神經外科 複",
+  "stem": "評估頭部外傷病患時所用之Glasgow Coma Scale，包含下列哪些項目？",
+  "options": [
+   "Pupil size",
+   "Eye opening",
+   "Corneal reflex",
+   "Verbal response",
+   "Motor response"
+  ],
+  "answer": "BDE",
+  "ref": "Miller 5th ed. 2000, p1378"
+ },
+ {
+  "no": 8,
+  "page": 3,
+  "cat": "神經外科 複",
+  "stem": "顱內動脈瘤（intracranial aneurysm）的好發部位有那三項？",
+  "options": [
+   "Posterior communicating artery",
+   "Anterior communicating artery",
+   "Middle cerebral artery",
+   "Middle meningeal artery",
+   "Superficial temporal artery"
+  ],
+  "answer": "ABC",
+  "ref": "Neurosurgery, Wilkins, et al. 2nd ed., p2302"
+ },
+ {
+  "no": 9,
+  "page": 3,
+  "cat": "神經外科 複",
+  "stem": "顱內壓升高（increased intracranial pressure）時，那些處置正確？",
+  "options": [
+   "Hypoventilation",
+   "Hyperventilation",
+   "Head elevation",
+   "Carotid artery massage",
+   "Infusion of osmotic diuretics (Mannitol or Glycerol)"
+  ],
+  "answer": "BCE",
+  "ref": "Neurosurgery, Wilkins, et al. 2nd ed., p350"
+ },
+ {
+  "no": 10,
+  "page": 3,
+  "cat": "神經外科 複",
+  "stem": "關於腦膜瘤（meningioma）之敘述哪兩項是正確的？",
+  "options": [
+   "腦膜瘤是由dura layer長出的腫瘤",
+   "腦膜瘤是由arachnoid layer長出的腫瘤",
+   "腦膜瘤是由pia layer長出的腫瘤",
+   "腦膜瘤有少部分是惡性的",
+   "腦膜瘤皆是良性的"
+  ],
+  "answer": "BD",
+  "ref": "Neurosurgery, Wilkins, et al. 2nd ed., p843-845"
+ },
+ {
+  "no": 11,
+  "page": 4,
+  "cat": "神經外科 複",
+  "stem": "Normal pressure hydrocephalus之典型臨床表現包括下列哪三種項目？",
+  "options": [
+   "Tremor",
+   "Dementia",
+   "Urine incontinence",
+   "Paraparesis",
+   "Ataxia"
+  ],
+  "answer": "BCE",
+  "ref": "Handbook Neurosurgery 9th edition, p 417"
+ },
+ {
+  "no": 12,
+  "page": 4,
+  "cat": "神經外科 複",
+  "stem": "頭部外傷病人發生acute epidural hematoma造成uncal herniation時，臨床上較會有哪二項表現？",
+  "options": [
+   "同側瞳孔放大（ipsilateral pupil dilatation）",
+   "對側瞳孔放大（contralateral pupil dilatation）",
+   "同側肢體乏力（ipsilateral hemiplegia）",
+   "對側肢體乏力（contralateral hemiplegia）",
+   "雙下肢無力（paraplegia）"
+  ],
+  "answer": "AD",
+  "ref": "Handbook Neurosurgery 9th edition, p 927"
+ },
+ {
+  "no": 13,
+  "page": 4,
+  "cat": "神經外科 複",
+  "stem": "水腦症（hydrocephalus）患者在下列哪兩種情形時，較不適合裝置ventriculoperitoneal shunt？",
+  "options": [
+   "Normal pressure hydrocephalus",
+   "Hydrocephalus due to active TB meningitis",
+   "Hydrocephalus due to active Cryptococcal meningitis",
+   "Hydrocephalus due to active bacterial meningitis",
+   "Intraventricular hemorrhage with acute hydrocephalus"
+  ],
+  "answer": "DE",
+  "ref": "Neurosurgery, Wilkins, et al. 2nd ed., p3625-3643"
+ },
+ {
+  "no": 14,
+  "page": 5,
+  "cat": "神經外科 複",
+  "stem": "有關霧霧症（Moyamoya disease）之敘述，下列哪兩項不正確？",
+  "options": [
+   "診斷工具以血管攝影為主",
+   "疾病早期變化是stenosis in the supraclinoid portion of internal carotid artery",
+   "疾病變化通常是單側",
+   "疾病晚期變化是內頸動脈完全阻塞，Moyamoya vessels消失，腦部血液供應以外頸動脈及脊椎動脈為主",
+   "疾病變化之顯現，CT優於MRI"
+  ],
+  "answer": "CE",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2125"
+ },
+ {
+  "no": 15,
+  "page": 5,
+  "cat": "神經外科 複",
+  "stem": "有關大範圍之腦梗塞之敘述，下列哪兩項不正確？",
+  "options": [
+   "腦水腫最厲害時間是梗塞後第三至第五天",
+   "Craniectomy應該做hemicraniectomy",
+   "只作Subtemporal craniectomy也有效",
+   "小腦梗塞以Posterior inferior cerebellar artery梗塞最常見",
+   "在作Suboccipital craniectomy時，小腦梗塞組織不必切除"
+  ],
+  "answer": "CE",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2151-2154"
+ },
+ {
+  "no": 16,
+  "page": 5,
+  "cat": "神經外科 複",
+  "stem": "有關Spinal dysraphysm之敘述，下列哪兩項不正確？",
+  "options": [
+   "Spina bifida occulta只有椎板缺陷，並無神經組織的問題",
+   "Spina bifida occulta通常發生在胸椎或腰椎",
+   "Spina bifida occulta可由產前篩選出來",
+   "Meningocele內只有腦脊髓液無神經組織",
+   "Meningocele和Spinal canal不相通"
+  ],
+  "answer": "CE",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p3453"
+ },
+ {
+  "no": 17,
+  "page": 6,
+  "cat": "神經外科 複",
+  "stem": "下列四種情況不考慮為Massive brain infarction病人作Craniectomy？",
+  "options": [
+   "病人年紀很大",
+   "病人有很厲害的缺血性心臟病",
+   "病人已有很厲害的Alzheimer’s disease",
+   "病人神經學上的障礙程度，無法令家屬接受",
+   "栓塞部位在非優勢大腦半球上"
+  ],
+  "answer": "ABCD",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2153"
+ },
+ {
+  "no": 18,
+  "page": 6,
+  "cat": "神經外科 複",
+  "stem": "有關懷孕期間已出血之動脈瘤及動靜脈畸形(AVM)之敘述，下列哪兩項不正確？",
+  "options": [
+   "懷孕期間已出血之動脈瘤處理原則與未懷孕者相同",
+   "懷孕期間已出血之動脈瘤以保守治療為主",
+   "懷孕期間已出血之動靜脈畸形(AVM)以保守治療為主",
+   "懷孕期間已出血之動脈瘤要盡早夾除",
+   "動脈瘤夾除之後懷孕應立即中止"
+  ],
+  "answer": "BE",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2425"
+ },
+ {
+  "no": 19,
+  "page": 6,
+  "cat": "神經外科 複",
+  "stem": "有關Jefferson's fracture之敘述，下列那兩項不正確？",
+  "options": [
+   "Jefferson's fracture 發生在頸椎第二節",
+   "Jefferson's fracture骨折發生機制通常是頭頂受力",
+   "Jefferson's fracture通常伴隨脊髓受傷",
+   "電腦斷層掃瞄是Jefferson's fracture最佳檢查工具",
+   "Jefferson's fracture病人只是戴上occipito-mandibular brace或halo-vest即可，一般不必手術"
+  ],
+  "answer": "AC",
+  "ref": "Sabiston Textbook of Surgery, 15th ed., p1402"
+ },
+ {
+  "no": 20,
+  "page": 7,
+  "cat": "神經外科 複",
+  "stem": "下列那四項頸椎骨折通常一般不必開刀固定？",
+  "options": [
+   "Jefferson’s fracture",
+   "Odontoid frature, type I",
+   "Odontoid fracture, type II",
+   "Odontoid fracture, type III",
+   "Hangman’s fracture"
+  ],
+  "answer": "ABDE",
+  "ref": "Sabiston Textbook of Surgery, 15th ed., p1402"
+ },
+ {
+  "no": 21,
+  "page": 7,
+  "cat": "神經外科 複",
+  "stem": "下列那四項頸椎骨折是發生在第二頸椎？",
+  "options": [
+   "Jefferson’s fracture",
+   "Odontoid frature, type I",
+   "Odontoid fracture, type II",
+   "Odontoid fracture, type III",
+   "Hangman’s fracture"
+  ],
+  "answer": "BCDE",
+  "ref": "Sabiston Textbook of Surgery, 15th ed., p1402"
+ },
+ {
+  "no": 22,
+  "page": 7,
+  "cat": "神經外科 複",
+  "stem": "有關頭部外傷之敘述，下列那兩項不正確？",
+  "options": [
+   "Acute subdural hematoma之預後和腦實質受損程度有關",
+   "通常放大的瞳孔和Acute subdural hematoma是同側",
+   "通常肢體無力和Acute subdural hematoma是同側",
+   "即使血比容低，Acute subdural hematoma在電腦斷層掃瞄下仍呈現高密度",
+   "核磁共振掃瞄可看出腦實質受損程度"
+  ],
+  "answer": "CD",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2797-2806"
+ },
+ {
+  "no": 23,
+  "page": 8,
+  "cat": "神經外科 複",
+  "stem": "有關頭部外傷之敘述，下列那兩項不正確？",
+  "options": [
+   "Epidural hematoma在老人和嬰兒比較常見",
+   "Epidural hematoma較少伴隨腦實質受損",
+   "若頭部外傷後一小時內的電腦斷層掃瞄無Epidural hematoma，即可排除發生Epidural hematoma的可能性",
+   "後顱腔Epidural hematoma發生比例，比Acute subdural hematoma高",
+   "Temporal lobe hematoma比Frontal lobe hematoma危險"
+  ],
+  "answer": "AC",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2801-2805"
+ },
+ {
+  "no": 24,
+  "page": 8,
+  "cat": "神經外科 複",
+  "stem": "有關Subdural hygroma之敘述，下列哪兩項不正確？",
+  "options": [
+   "發生機制可能因CSF經蜘蛛膜上的裂隙堆積在Subdural space",
+   "和Chronic subdural hematoma一樣有內膜和外膜",
+   "治療上可先用burr hole drainage",
+   "通常第一次術後不會再復發",
+   "再發者可放shunt至腹腔引流"
+  ],
+  "answer": "BD",
+  "ref": "Neurosurgery, Wilkins, 1996, 2nd ed., p2801"
+ },
+ {
+  "no": 25,
+  "page": 8,
+  "cat": "神經外科 複",
+  "stem": "關於Spinal epidural abscess下列何者為是？",
+  "options": [
+   "Hematogenous spread是最常見來源",
+   "Staphylococcus aureus是最常見感染菌種",
+   "Streptococcus是最常見感染菌種",
+   "Tuberculosis是最常見慢性感染菌種",
+   "Pus通常位於Dura的前側"
+  ],
+  "answer": "ABD",
+  "ref": "Wilkins Neurosurgery Vol.3, p3327-3329"
+ },
+ {
+  "no": 26,
+  "page": 9,
+  "cat": "神經外科 複",
+  "stem": "下列病症與PICA (Posterior Inferior Cerebellar Artery) 阻塞有關？",
+  "options": [
+   "與病灶異側（contralateral）Horner’s syndrome",
+   "對側半邊軀幹痛覺及溫度的感覺喪失",
+   "同側肢體ataxia",
+   "同側肢體麻木感",
+   "同側palate paralysis"
+  ],
+  "answer": "BCDE",
+  "ref": "Adams RD, Principles of neurology, 5th edition, p689"
+ },
+ {
+  "no": 27,
+  "page": 9,
+  "cat": "神經外科 複",
+  "stem": "頭部電腦斷層顯示壹位於優勢大腦頂葉的腫瘤，患者可能出現下列何種病症？",
+  "options": [
+   "Agraphia",
+   "Left-right confusion",
+   "Digit agnosia",
+   "Aphasia",
+   "Acalculia"
+  ],
+  "answer": "ABCDE",
+  "ref": "Handbook Neurosurgery 9th edition, p106"
+ },
+ {
+  "no": 28,
+  "page": 9,
+  "cat": "神經外科 複",
+  "stem": "Meningiomas復發與否主要歸咎於",
+  "options": [
+   "患者的年齡",
+   "腫瘤是否有顱骨的侵犯",
+   "組織病理學分類上的不同",
+   "術後是否有殘存的腫瘤",
+   "患者的性別"
+  ],
+  "answer": "BCD",
+  "ref": "Youman's Neurological surgery, 4th Edition, p2817-2818"
+ },
+ {
+  "no": 29,
+  "page": 9,
+  "cat": "神經外科 複",
+  "stem": "腦瘤之治療，下列何者正確？",
+  "options": [
+   "Choroid plexus papilloma最好犯為側腦室",
+   "Choroid plexus papilloma造成水腦於手術切除瘤後，大都無法解除",
+   "中樞神經淋巴瘤對放射治療效果不好，仍以手術為重",
+   "顱內脂肪瘤最常見於額葉",
+   "顱內脂肪瘤通常不需手術切除"
+  ],
+  "answer": "BE",
+  "ref": "Neurosurgery, Wilkins, 2nd ed., p1741-1749"
+ },
+ {
+  "no": 30,
+  "page": 10,
+  "cat": "神經外科 複",
+  "stem": "有關頭部外傷，下列何者不正確？",
+  "options": [
+   "前顱窩骨折會造成Raccoon sign",
+   "中顱窩骨折會造成Battle’s sign",
+   "有腦脊液外流時，要立即手術修補",
+   "有腦脊液外流時，不需使用抗生素",
+   "腦灌注壓小於30 mmHg，即會造成腦缺氧"
+  ],
+  "answer": "CE",
+  "ref": "Principles of Surgery, Schwartz, 6th ed., p664"
+ },
+ {
+  "no": 31,
+  "page": 10,
+  "cat": "神經外科 複",
+  "stem": "有關脊椎外傷，下列何者不正確？",
+  "options": [
+   "C3以上脊髓損傷，病人可能發生呼吸衰竭",
+   "T7以上脊髓損傷，會造成神經性低血壓",
+   "Brown-Sequard syndrome乃同側痛覺消失，對側肌力喪失",
+   "Central cord syndome造成兩上肢無力，痛覺消失，下肢正常",
+   "Anterior spinal artery syndrome造成癱瘓，痛覺喪失，但觸感正常"
+  ],
+  "answer": "BC",
+  "ref": "Principles of Surgery, Schwartz, 6th ed., p668-670"
+ },
+ {
+  "no": 32,
+  "page": 10,
+  "cat": "神經外科 複",
+  "stem": "有關於腦血管手術，下列何者為真？",
+  "options": [
+   "腦栓塞最常侵犯的血管為中大腦動脈",
+   "正常顱內壓為15~20 mmHg",
+   "Moyamoya disease好發年齡為10~15歲",
+   "Moyamoya disease是小孩最常發生腦部缺血之原因",
+   "Moyamoya disease疾病之嚴重程度與初次發病年齡有關，初發病年紀愈大，癒後愈差"
+  ],
+  "answer": "AD",
+  "ref": "Principles of Surgery, Schwartz, 6th ed., p662,675"
+ },
+ {
+  "no": 33,
+  "page": 11,
+  "cat": "神經外科 複",
+  "stem": "有關脊椎腫瘤，何者為誤？",
+  "options": [
+   "最常見之脊髓內腫瘤為astrocytoma及ependymoma",
+   "最常見之腦膜內、脊髓外腫瘤為神經瘤及腦膜瘤",
+   "脊椎腦膜瘤好發於男性",
+   "轉移性脊椎腫瘤以頸椎最常見",
+   "轉移性脊椎腫瘤原發處多為肺部"
+  ],
+  "answer": "CD",
+  "ref": "Neurosurgery, Wilkins, 2nd ed., p1769-1791"
+ },
+ {
+  "no": 34,
+  "page": 11,
+  "cat": "神經外科 複",
+  "stem": "下列何者會造成假性腦瘤？",
+  "options": [
+   "乳突炎",
+   "矢狀竇腦膜瘤",
+   "頸靜脈阻塞",
+   "真性紅血球增多症",
+   "顱內靜脈竇阻塞"
+  ],
+  "answer": "ACDE",
+  "ref": "Neurological Surgery, Youmans, 4th ed., p2981"
+ },
+ {
+  "no": 35,
+  "page": 11,
+  "cat": "神經外科 複",
+  "stem": "關於OPLL下列何者為是？",
+  "options": [
+   "C-spine佔70﹪",
+   "好發於C5-6 level",
+   "segmental type多於continuous type",
+   "Cord injury之主因，乃因vascular而非compression.",
+   "Cord injury之主因，乃因compression而非vascular"
+  ],
+  "answer": "ACD",
+  "ref": "Wilkins Neurosurgery Vol.3, p3781-3782"
+ },
+ {
+  "no": 36,
+  "page": 11,
+  "cat": "神經外科 複",
+  "stem": "關於brain abscess何者為是？",
+  "options": [
+   "Abscess的來源，常來自於sinusitis and otitic origin",
+   "Abscess通常位於腦的superficial area",
+   "Metastatic abscesses常是multiple，且常分佈於MCA territory",
+   "Abscess伴隨congenital heart disease常是solitary，且endocarditis是重要的致病因子",
+   "限制Abscess擴散的重要原因，是本身形成capsule formation"
+  ],
+  "answer": "ABCE",
+  "ref": "Wilkins Neurosurgery Vol.3, p3285-3287"
+ },
+ {
+  "no": 37,
+  "page": 12,
+  "cat": "神經外科 複",
+  "stem": "2016年世界衛生組織WHO區分Glioma之惡性度以及預後之評估，是依靠：",
+  "options": [
+   "Nuclear atypia",
+   "Genetic molecular factors",
+   "Necrosis",
+   "Mitotic figures",
+   "Microvascular增生"
+  ],
+  "answer": "ABCDE",
+  "ref": "Wilkins Neurosurgery, p735"
+ },
+ {
+  "no": 38,
+  "page": 12,
+  "cat": "神經外科 複",
+  "stem": "關於正常壓力水腦症（NPH）何者正確？",
+  "options": [
+   "臨床上病人呈痴呆及小便失禁",
+   "腰椎穿刺壓力在180 mmH2O以下",
+   "CT上呈側腦室脹大",
+   "分流術治療可達90﹪成功",
+   "可找到致病因的NPH對手術治療的反應較差"
+  ],
+  "answer": "ABC",
+  "ref": "Wilkins Neurosurgery, p328-329"
+ },
+ {
+  "no": 39,
+  "page": 12,
+  "cat": "神經外科 複",
+  "stem": "聽神經瘤（acoustic neuroma）手術的適應症，以下何者為是：",
+  "options": [
+   "追蹤期間腫瘤迅速擴大",
+   "放射線手術後，水腫消退，而腫瘤仍再長大者",
+   "老年人只有輕微症狀時",
+   "和病人討論治療的選擇時，由病人做決定",
+   "腫瘤<2cm，而ASA Grade ³Ⅲ時"
+  ],
+  "answer": "ABD",
+  "ref": "Youmans, p2845"
+ },
+ {
+  "no": 40,
+  "page": 12,
+  "cat": "神經外科 複",
+  "stem": "下列何種tumor源自於glial cell？",
+  "options": [
+   "Astrocytoma",
+   "Ganglioneuroma",
+   "Ependymoma",
+   "Neurofibroma",
+   "Oligodendroglioma"
+  ],
+  "answer": "ACE",
+  "ref": "Handbook Neurosurgery 9th edition, p593"
+ },
+ {
+  "no": 41,
+  "page": 13,
+  "cat": "神經外科 複",
+  "stem": "何種NPH情況下行V-P shunt手術會預期有較好的結果？",
+  "options": [
+   "unstable gaits很明顯",
+   "expansion of normal flow in aqueduct",
+   "idiopathic NPH",
+   "3rd ventricle變化",
+   "increased periventricular lucency"
+  ],
+  "answer": "ABDE",
+  "ref": "Wilkins Neurosurgery, p331"
+ },
+ {
+  "no": 42,
+  "page": 13,
+  "cat": "神經外科 複",
+  "stem": "下列關於顱內動靜脈畸形的敘述何者正確？",
+  "options": [
+   "顱內動靜脈畸形的發生率約為動脈瘤的七分之一",
+   "大多數顱內動靜脈畸形在40歲前會產生症狀",
+   "顱內動靜脈畸形較好發於男性",
+   "顱內出血及癲癇發作是顱內動靜脈畸形的前發症狀",
+   "顱內動靜脈畸形愈大愈容易破裂"
+  ],
+  "answer": "ABCD",
+  "ref": "Wilkins Neurosurgery, p2434-2435"
+ },
+ {
+  "no": 43,
+  "page": 13,
+  "cat": "神經外科 複",
+  "stem": "下列關於外傷性腦脊髓液鼻漏（CSF rhinorrhea）之敘述何者正確？",
+  "options": [
+   "大部份病患經保守療法後可癒合",
+   "可由測定鼻分泌物的糖份作診斷",
+   "常併發氣顱症pneumocranium",
+   "外傷性腦脊髓液鼻漏比自發性腦脊髓液鼻漏更容易引發腦膜炎",
+   "CSF引流有可能造成CSF流動梯度的改變而引發感染"
+  ],
+  "answer": "ABCDE",
+  "ref": "Wilkins Neurosurgery, p2773-2781"
+ },
+ {
+  "no": 44,
+  "page": 13,
+  "cat": "神經外科 複",
+  "stem": "下列何者為腦內出血（Intracerebral hemorrhage）病人後續惡化（delayed deterioration）的常見原因？",
+  "options": [
+   "再出血（Rebleeding）",
+   "痙攣（Seizure）",
+   "水腦症（Hydrocephalus）",
+   "腦膿瘍（Brain abscess）",
+   "腦水腫（Brain edema）"
+  ],
+  "answer": "ABCE",
+  "ref": "Handbook Neurosurgery 9th edition, p1402"
+ },
+ {
+  "no": 45,
+  "page": 14,
+  "cat": "神經外科 複",
+  "stem": "一位四十歲男性病患，主訴近三個禮拜來右側肢體逐漸無力，同時出現口齒不清現象，經過影像學檢查後，發現為左側大腦之病灶，經手術切除，病理報告為多形性膠質母細胞瘤，則我們預期在病理切片上可以找到哪些變化？",
+  "options": [
+   "Hypercellularity",
+   "pleomorphism of cell",
+   "vascular proliferation",
+   "necrosis",
+   "dura membrane invasion"
+  ],
+  "answer": "ABCD",
+  "ref": "Handbook Neurosurgery 9th edition, p 631"
+ },
+ {
+  "no": 46,
+  "page": 14,
+  "cat": "神經外科 複",
+  "stem": "關於alcohol withdrawal syndrome的預防性治療，下列敘述何者為非？",
+  "options": [
+   "Benzodiazepines為主要治療藥物，用來減少autonomic hyperactivity",
+   "Atenolol 會mask symptoms of alcohol withdrawal，不能用來控制withdrawal 相關的血壓高和tachyarrhymias",
+   "不能使用肌肉鬆弛劑，如baclofen",
+   "Thiamine可用來預防acute Wernicke encephalothy",
+   "如有seizure發生，可使用phenytoin"
+  ],
+  "answer": "BC",
+  "ref": "Handbook Neurosurgery 9th edition, p219"
+ },
+ {
+  "no": 47,
+  "page": 14,
+  "cat": "神經外科 複",
+  "stem": "下列哪些顱內構造有經過cavernous sinus？",
+  "options": [
+   "Optic nerve",
+   "Internal carotid artery",
+   "Trigerminal nerve, manidibular branch",
+   "Trochlear nerve",
+   "Oculomotor nerver"
+  ],
+  "answer": "BDE",
+  "ref": "Handbook Neurosurgery 9th edition, p96"
+ },
+ {
+  "no": 48,
+  "page": 15,
+  "cat": "神經外科 複",
+  "stem": "關於腦下垂體腫瘤，下列敘述何者為非？",
+  "options": [
+   "大部份是benign adenoma",
+   "多數是neurohypophyseal tumor",
+   "Pituitary macroadenoma的定義是tumor diameter > 1公分",
+   "Secretory adenoma最常造成的hormone oversecretion是Cushing disease",
+   "Mass effect可能造成bitemporal hemianopsia"
+  ],
+  "answer": "BD",
+  "ref": "Handbook Neurosurgery 9th edition, p741"
+ },
+ {
+  "no": 49,
+  "page": 15,
+  "cat": "神經外科 複",
+  "stem": "45歲女性，主訴sudden onset headache，腦部電腦斷層檢查結果為diffuse subarachnoid hemorrahge(SAH)，下列描述何者為非？",
+  "options": [
+   "SAH主要發生原因是ruptured intracranial aneurysm",
+   "Trauma是most common cause of SAH",
+   "可考慮CTA或angiogram來排除腦部血管病兆",
+   "Hydrocephalus, vasospasm是可能的後續變化",
+   "Hunt and Hess classification是根據SAH的多寡及有無腦室內出血，預測病人的預後"
+  ],
+  "answer": "AE",
+  "ref": "Handbook Neurosurgery 9th edition, p96"
+ },
+ {
+  "no": 50,
+  "page": 15,
+  "cat": "神經外科 複",
+  "stem": "下列關於Rathke's cleft cyst的描述何者正確？",
+  "options": [
+   "源自remnants of Rathke's pouch的nonneoplastic lesion",
+   "通常位於sellar或suprasellar region",
+   "常見症狀為頭痛和視野缺損，不會造成endocrine disturbance",
+   "Rathke's cleft cys常見的鑑別診斷有pituitary adenoma, craniopharyngioma",
+   "有症狀的Rathke's cleft cyst建議內視鏡或經顱手術引流"
+  ],
+  "answer": "ABDE",
+  "ref": "Handbook Neurosurgery 9th edition, p783"
+ },
+ {
+  "no": 51,
+  "page": 16,
+  "cat": "神經外科 複",
+  "stem": "關於corticosteoirds replacement治療，下列敘述何者正確？",
+  "options": [
+   "長期使用steroid會suppress hypothalamic-pituitary-adrenal axis，造成adrenal atropy",
+   "正常生理狀況Zona fasciculata會每天分泌15-20mg cortisol",
+   "During physiologic stress, adrenal gland分泌的cortisol會上升至250-300mg/day",
+   "fatigue, anorexia為常見的steroid withdrawl症狀",
+   "Addison's disease為primary adrenocortical insufficiency，只需補充glucocorticoids，不需補充mineralocorticoids"
+  ],
+  "answer": "ABCD",
+  "ref": "Handbook Neurosurgery 9th edition, p158"
+ },
+ {
+  "no": 52,
+  "page": 16,
+  "cat": "神經外科 複",
+  "stem": "下列對spinal schwannoma的描述何者錯誤？",
+  "options": [
+   "slow growing benign tumor",
+   "most arise from ventral(motor) rootlets",
+   "recurrence is common after total excision",
+   "早期常見症狀為radicular apin",
+   "大部份與neurofibromatosis有關"
+  ],
+  "answer": "BCE",
+  "ref": "Handbook Neurosurgery 9th edition, p817"
+ },
+ {
+  "no": 53,
+  "page": 17,
+  "cat": "神經外科 複",
+  "stem": "59歲男性工作時從3米高處跌落，送至急診室時意識清楚，雙上肢麻痛合併allodynia，muscle power：0-1分，雙下肢muscle power：3分，頸椎電腦斷層顯示C4-6 spur formation, spinal canal stenosis，下列相關描述何者錯誤？",
+  "options": [
+   "電腦斷層無骨折或移位，可將頸圈移除",
+   "Methylprednisolone for treatment of acute spinal cord injury is highly recommended",
+   "臨床表現為典型anterior cord syndrome",
+   "Loss of bulbocavernosus reflex為spinal shock的表現之一",
+   "Interruption of sympathetics只會發生在胸椎損傷的病人"
+  ],
+  "answer": "ABCE",
+  "ref": "Handbook Neurosurgery 9th edition, p971-980"
+ },
+ {
+  "no": 54,
+  "page": 17,
+  "cat": "神經外科 複",
+  "stem": "下列關於trigeminal neuralgia描述，何者錯誤？",
+  "options": [
+   "sharp, electric shock-like pain in the distribution of one or more branches of trigeminal nerves",
+   "Carbamazepine(Tegretol)可用來治療trigeminal neuralgia",
+   "通常是anterior inferior cerebellar artery造成壓迫",
+   "安排 brain MRI 排除顱內腫瘤, multiple sclerosis",
+   "75%病人只需藥物治療即可達到症狀緩解，不須開刀或侵入性治療"
+  ],
+  "answer": "CE",
+  "ref": "Handbook Neurosurgery 9th edition, p1638"
+ },
+ {
+  "no": 55,
+  "page": 18,
+  "cat": "神經外科 複",
+  "stem": "下列關於vestibular schwannoma敘述何者錯誤？",
+  "options": [
+   "benign tumor located in the cerebellopontine angle",
+   "通常源自 cochlear portion of cranial nerve VIII",
+   "同側hearing loss, headache, fascial numbness為常見的clinical triad",
+   "可能與loss of tumor-suppressor gene on the long arm of chromosome 22有關",
+   "Radiation therapy或stereotactic surgery無法用來治療vestibular schwannoma"
+  ],
+  "answer": "BCE",
+  "ref": "Handbook Neurosurgery 9th edition, p683"
+ },
+ {
+  "no": 56,
+  "page": 18,
+  "cat": "神經外科 複",
+  "stem": "下列關於Critical care of aneurysm patients 敘述何者錯誤？",
+  "options": [
+   "避免動脈再次破裂出血的治療選擇有 coiling or surgical clipping",
+   "aneurysm size是rebleeding的唯一risk factor",
+   "cerevral vasospasm只會發生在動脈破裂後的病人",
+   "vasospasm主要發生在SAH後的3-14 days",
+   "angiography是診斷vasospasm的唯一方式"
+  ],
+  "answer": "BCE",
+  "ref": "Handbook Neurosurgery 9th edition, p1241"
+ },
+ {
+  "no": 57,
+  "page": 18,
+  "cat": "神經外科 複",
+  "stem": "下列關於腦下垂體瘤的術後照顧何者錯誤？",
+  "options": [
+   "如果是經鼻內視鏡手術，在nasal packing移除前可使用預防性抗生素",
+   "不能使用post-op steroids，會造成傷口感染率上升",
+   "diabetes insipidus的診斷criteria是Urine output >250ml/hr, urine specific graviti > 1.005",
+   "術後一旦發生diabetes insipidus，病人需終生服用desmopressin(DDAVP)",
+   "SIADH是術後常見的問題"
+  ],
+  "answer": "BCDE",
+  "ref": "Handbook Neurosurgery 9th edition, p776"
+ },
+ {
+  "no": 58,
+  "page": 19,
+  "cat": "神經外科 複",
+  "stem": "下列何者不是評估ICH score的factor？",
+  "options": [
+   "GCS",
+   "Intraventricular hemorrhage",
+   "Blood pressure",
+   "ICH volume",
+   "Gender"
+  ],
+  "answer": "CE",
+  "ref": "Handbook Neurosurgery 9th edition, p1413"
+ },
+ {
+  "no": 59,
+  "page": 19,
+  "cat": "神經外科 複",
+  "stem": "下列關於antieplileptic drugs的敘述何者錯誤？",
+  "options": [
+   "Valprooic acid(Depakine)不會導致畸胎，可用於治療懷孕的癲癇病人",
+   "Carbamepine(Tegretol)可用來治療partial seizures和trigeminal neuralgia",
+   "在使用Phenytoin(Dilantin)前，可作HLA-B1502檢驗，避免發生Steven-Johnson syndrome",
+   "Levetiracetam(Keppra)與其他藥物的相互反應少，但有可能發生嗜睡或疲倦的副作用",
+   "Ethosuximde是治療absence seizure的首選用藥"
+  ],
+  "answer": "AC",
+  "ref": "Handbook Neurosurgery 9th edition, p465"
+ },
+ {
+  "no": 60,
+  "page": 19,
+  "cat": "神經外科 複",
+  "stem": "下列External ventricular drain(EVD) related infection的相關敘述何者錯誤？",
+  "options": [
+   "S.epidermidis和S. aureus是常見的organism",
+   "low CSF glucose level是可能的異常發現",
+   "CSF protein的變化是ventricular catheter infection的可靠指標",
+   "Rountine CSF sampling可有效降低管路感染的機率",
+   "Tunneling和antibiotic coated catheter無法降低管路感染的機率"
+  ],
+  "answer": "CD",
+  "ref": "Handbook Neurosurgery 9th edition, p359"
+ }
+]

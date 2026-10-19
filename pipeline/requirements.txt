@@ -1,0 +1,3 @@
+# only needed for ingest (PDF parsing) and the optional browser test
+pymupdf
+playwright

@@ -1,0 +1,13 @@
+{
+ "id": "em114a",
+ "order": 10,
+ "group": "急診",
+ "title": "急診專科 114 年度筆試（A 卷）",
+ "short": "急診114A",
+ "type": "single",
+ "taxonomy": "em",
+ "sub_default": null,
+ "source": "sources/em114a.pdf",
+ "parser": "parse_em",
+ "fixes": {}
+}

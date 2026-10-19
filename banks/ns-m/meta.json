@@ -1,0 +1,20 @@
+{
+ "id": "ns-m",
+ "order": 100,
+ "group": "外科",
+ "title": "神經外科・複選題庫",
+ "short": "神外複選",
+ "type": "multi",
+ "taxonomy": "surg",
+ "sub_default": "神經外科",
+ "source": "sources/ns_multi.pdf",
+ "parser": "parse_surg",
+ "fixes": {
+  "ns-m-039": [
+   [
+    "³Ⅲ",
+    "≥ Ⅲ"
+   ]
+  ]
+ }
+}
